@@ -1,0 +1,13 @@
+Top 5 Properties for TB Questions Object Position (?, r, e): 
+Geburtsort, avg. score: 0.77
+Beschäftigung, avg. score: 0.57
+ehemaliger Partner, avg. score: 0.55
+Standort, avg. score: 0.55
+Ehepartner, avg. score: 0.54
+
+Bottom 5 Person Properties for TB Questions Object Positions (?, r, e): 
+Meister im gemischten Doppel, avg. score: 0.18
+die meisten Siege, avg. score: 0.17
+Farbe, avg. score: 0.17
+Meisterin im Einzel weiblich, avg. score: 0.17
+schnellster Fahrer, avg. score: 0.16

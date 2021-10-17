@@ -1,0 +1,13 @@
+Top 5 Person Properties for Human-Generated Questions Subject Position (e, r, ?): 
+Geburtsdatum, avg. score: 0.85
+Staatsangehörigkeit, avg. score: 0.82
+Nationalität, avg. score: 0.78
+Sterbedatum, avg. score: 0.77
+Geburtsort, avg. score: 0.77
+
+Bottom 5 Person Properties for Human-Generated Questions Subject Positions (e, r, ?): 
+Gesamtzeit welche die Person im Weltraum verbracht hat (s), avg. score: 0.08
+Gesamtzeit welche die Person im Weltraum verbracht hat (m), avg. score: 0.08
+Strafantrag, avg. score: 0.08
+Hüftumfang (μ), avg. score: 0.08
+beste Platzierung im Ranglistenturnier, avg. score: 0.07

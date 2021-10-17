@@ -1,0 +1,13 @@
+Top 5 Properties for Human-Generated Questions Object Position (?, r, e): 
+Geburtsort, avg. score: 0.77
+Vorgänger, avg. score: 0.57
+Land, avg. score: 0.56
+Standort, avg. score: 0.55
+Partner, avg. score: 0.54
+
+Bottom 5 Person Properties for Human-Generated Questions Object Positions (?, r, e): 
+Meisterin im Einzel weiblich, avg. score: 0.1
+schnellster Fahrer, avg. score: 0.09
+Champion im Einzel männlich, avg. score: 0.09
+Poltreiber, avg. score: 0.09
+Meister im gemischten Doppel, avg. score: 0.09

@@ -1,0 +1,13 @@
+Top 5 Properties for Baseline Questions Object Position (?, r, e): 
+Geburtsort, avg. score: 0.74
+Standort, avg. score: 0.5
+Ehepartner, avg. score: 0.46
+Vater, avg. score: 0.46
+wissenschaftliche Disziplin, avg. score: 0.46
+
+Bottom 5 Person Properties for Baseline Questions Object Positions (?, r, e): 
+Album, avg. score: 0.12
+Vizeministerpräsident, avg. score: 0.11
+die meisten Siege, avg. score: 0.1
+Kinematografie, avg. score: 0.07
+Champion im Einzel männlich, avg. score: 0.06

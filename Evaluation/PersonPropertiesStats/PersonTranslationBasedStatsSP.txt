@@ -1,0 +1,13 @@
+Top 5 Person Properties for TB Questions Subject Position (e, r, ?): 
+Geburtsdatum, avg. score: 0.82
+Nationalität, avg. score: 0.82
+Staatsangehörigkeit, avg. score: 0.81
+Sterbedatum, avg. score: 0.78
+Geburtsort, avg. score: 0.77
+
+Bottom 5 Person Properties for TB Questions Subject Positions (e, r, ?): 
+Oberweite (Î¼), avg. score: 0.1
+Hüftumfang (μ), avg. score: 0.09
+Taillenumfang (μ), avg. score: 0.09
+Nettovermögen ($), avg. score: 0.09
+brutto ($), avg. score: 0.09
