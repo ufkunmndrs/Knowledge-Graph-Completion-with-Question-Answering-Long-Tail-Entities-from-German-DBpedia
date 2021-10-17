@@ -1,0 +1,1 @@
+# Knowledge-Graph-Completion-with-Question-Answering-Long-Tail-Entities-from-German-DBpedia
