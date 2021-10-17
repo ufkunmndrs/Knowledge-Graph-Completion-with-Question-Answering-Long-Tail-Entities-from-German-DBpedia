@@ -1,0 +1,37 @@
+***Wiki Parser: Multithreaded Parse of Wikipedia Database to XML***
+
+Wikipedia database file to parse: C:/Users/ubmen/Desktop/BA_Prog/DataSelection/XMLFiles/OnlyDeArticlesFinal.xml.
+Saving parsed data to directory: C:/Users/ubmen/Desktop/BA_Prog/TripleExtraction/PreprocessedTXTFiles/FullWikiTXT/
+
+Parse started: 2021-06-28 18:08:53
+Parse ended: 2021-06-28 18:08:53
+Parsing took a total of: 0 hours, 0 minutes, 0 seconds.
+Number of parsing threads used: 7 threads.
+
+Total number of pages that were successfully parsed: 1268.
+Number of pages that failed to parse: 0.
+
+Number of articles among the parsed pages (exclusing lists): 1268.
+Numer of list articles among the parsed pages: 0
+Number of disambiguations among the parsed pages: 0
+Number of redirects among the parsed pages: 0.
+Number of other pages - Wikipedia, File, Category, Template, etc. (discarded): 0.
+
+Types of pages saved to the XML file: 
+		Non-list articles
+		List articles
+		Disambiguations
+Number of qualifying parsed pages saved to the XML file: 1268.
+
+***Wiki Parser: converting parsed XML into plain text***
+
+Processing started: 2021-06-28 18:08:53
+Processing ended: 2021-06-28 18:08:54
+Processing took a total of: 0 hours, 0 minutes, 0 seconds.
+
+The following settings were used during the conversion:
+		Marking articles with #Article tags.
+		NOT marking sections with #Subtitle tags.
+		Skipping image captions.
+
+Number of pages from the parsed XML written as plain text: 1268.
