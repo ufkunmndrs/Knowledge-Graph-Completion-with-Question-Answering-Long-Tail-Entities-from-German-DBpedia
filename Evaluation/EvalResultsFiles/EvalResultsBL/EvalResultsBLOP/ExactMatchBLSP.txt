@@ -1,0 +1,26 @@
+EXACT MATCH results for Object Position with Baseline questions - (?, r, e): 
+
+Der Raubfisch: 0.08
+Eidgenössische Bank: 0.02
+Weinbergkirche (Dresden): 0.02
+Kettenschifffahrt auf dem Main: 0.02
+Wurminfektionen der Katze: 0.02
+Sperber (Schiff, 1938): 0.02
+Staatliche Zeichenakademie Hanau: 0.01
+Hans Schnitzler: 0.01
+Erna Wazinski: 0.01
+Hamburger Tageblatt: 0.0
+Graf Öderland: 0.0
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.0
+Schweiz ohne Armee? Ein Palaver: 0.0
+Berliner Volks-Zeitung: 0.0
+Haus Fürsteneck: 0.0
+Paul Parey Zeitschriftenverlag: 0.0
+Jüdische Gemeinde Esens: 0.0
+Bürgerpark und Stadtwald: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 0.0
+Brand von Glarus: 0.0
+Königseiche: 0.0
+
+Average EXACT MATCH score: 0.01

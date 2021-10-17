@@ -1,0 +1,26 @@
+RECALL results for Subject Position with Baseline questions - (e, r, ?): 
+
+Der Raubfisch: 52.2
+Sperber (Schiff, 1938): 51.4
+Graf Öderland: 47.4
+Haus Fürsteneck: 47.4
+Weinbergkirche (Dresden): 41.9
+Paul Parey Zeitschriftenverlag: 37.5
+Eidgenössische Bank: 36.5
+Hamburger Tageblatt: 33.3
+Schweiz ohne Armee? Ein Palaver: 20.8
+Brand von Glarus: 18.8
+Hans Schnitzler: 17.8
+Jüdische Gemeinde Esens: 17.4
+Berliner Volks-Zeitung: 15.6
+Wurminfektionen der Katze: 14.3
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 13.3
+Erna Wazinski: 10.6
+Staatliche Zeichenakademie Hanau: 10.5
+Kettenschifffahrt auf dem Main: 6.7
+Kunstgewerbe- und Handwerkerschule Magdeburg: 5.0
+Fadenwurminfektionen des Hundes: 0.0
+Bürgerpark und Stadtwald: 0.0
+Königseiche: 0.0
+
+Average RECALL score: 22.7

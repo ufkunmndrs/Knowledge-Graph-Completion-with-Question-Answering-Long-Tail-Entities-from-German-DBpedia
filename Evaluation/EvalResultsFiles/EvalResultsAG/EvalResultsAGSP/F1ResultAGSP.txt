@@ -1,0 +1,26 @@
+F1 results for Subject Position with Translation-Based questions - (e, r, ?): 
+
+Der Raubfisch: 53.3
+Sperber (Schiff, 1938): 45.7
+Eidgenössische Bank: 43.6
+Graf Öderland: 42.1
+Haus Fürsteneck: 39.5
+Fadenwurminfektionen des Hundes: 33.3
+Weinbergkirche (Dresden): 32.9
+Paul Parey Zeitschriftenverlag: 30.0
+Hamburger Tageblatt: 29.3
+Berliner Volks-Zeitung: 27.5
+Jüdische Gemeinde Esens: 22.2
+Schweiz ohne Armee? Ein Palaver: 21.2
+Hans Schnitzler: 20.2
+Erna Wazinski: 17.1
+Bürgerpark und Stadtwald: 16.7
+Wurminfektionen der Katze: 16.7
+Staatliche Zeichenakademie Hanau: 14.5
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 13.3
+Kettenschifffahrt auf dem Main: 13.3
+Brand von Glarus: 12.9
+Kunstgewerbe- und Handwerkerschule Magdeburg: 9.9
+Königseiche: 0.0
+
+Average F1 score: 25.2

@@ -1,0 +1,26 @@
+RECALL results for Object Position with Translation-Based questions - (?, r, e): 
+
+Wurminfektionen der Katze: 20.0
+Graf Öderland: 18.2
+Erna Wazinski: 18.2
+Der Raubfisch: 16.7
+Hans Schnitzler: 15.4
+Fadenwurminfektionen des Hundes: 14.3
+Brand von Glarus: 12.5
+Bürgerpark und Stadtwald: 10.0
+Weinbergkirche (Dresden): 8.3
+Königseiche: 7.1
+Schweiz ohne Armee? Ein Palaver: 7.1
+Eidgenössische Bank: 7.1
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 5.6
+Haus Fürsteneck: 4.2
+Berliner Volks-Zeitung: 3.7
+Jüdische Gemeinde Esens: 3.3
+Hamburger Tageblatt: 2.6
+Paul Parey Zeitschriftenverlag: 2.1
+Staatliche Zeichenakademie Hanau: 1.5
+Kunstgewerbe- und Handwerkerschule Magdeburg: 1.1
+Sperber (Schiff, 1938): 0.0
+Kettenschifffahrt auf dem Main: 0.0
+
+Average RECALL score: 8.1

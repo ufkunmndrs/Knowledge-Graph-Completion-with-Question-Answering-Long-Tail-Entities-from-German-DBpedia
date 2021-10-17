@@ -1,0 +1,26 @@
+F1 results for Subject Position with Human-Generated questions - (e, r, ?): 
+
+Der Raubfisch: 62.2
+Sperber (Schiff, 1938): 57.1
+Graf Öderland: 52.6
+Haus Fürsteneck: 52.6
+Hamburger Tageblatt: 43.9
+Berliner Volks-Zeitung: 43.2
+Eidgenössische Bank: 42.1
+Paul Parey Zeitschriftenverlag: 40.0
+Brand von Glarus: 38.7
+Schweiz ohne Armee? Ein Palaver: 38.3
+Weinbergkirche (Dresden): 37.6
+Erna Wazinski: 37.6
+Hans Schnitzler: 33.6
+Wurminfektionen der Katze: 33.4
+Fadenwurminfektionen des Hundes: 33.3
+Jüdische Gemeinde Esens: 31.1
+Staatliche Zeichenakademie Hanau: 29.1
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 26.7
+Kettenschifffahrt auf dem Main: 20.0
+Kunstgewerbe- und Handwerkerschule Magdeburg: 19.8
+Königseiche: 16.7
+Bürgerpark und Stadtwald: 0.0
+
+Average F1 score: 35.9

@@ -1,0 +1,26 @@
+EXACT MATCH results for Object Position with Baseline questions - (?, r, e): 
+
+Bürgerpark und Stadtwald: 7.9
+Berliner Volks-Zeitung: 6.2
+Der Raubfisch: 5.1
+Schweiz ohne Armee? Ein Palaver: 2.8
+Haus Fürsteneck: 2.6
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 1.9
+Hans Schnitzler: 1.7
+Hamburger Tageblatt: 1.6
+Königseiche: 1.6
+Staatliche Zeichenakademie Hanau: 1.5
+Wurminfektionen der Katze: 1.5
+Graf Öderland: 1.4
+Paul Parey Zeitschriftenverlag: 1.3
+Erna Wazinski: 1.1
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.8
+Weinbergkirche (Dresden): 0.6
+Eidgenössische Bank: 0.4
+Fadenwurminfektionen des Hundes: 0.0
+Jüdische Gemeinde Esens: 0.0
+Sperber (Schiff, 1938): 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Brand von Glarus: 0.0
+
+Average EXACT MATCH score: 1.8

@@ -1,0 +1,26 @@
+F1 results for Object Position with Translation-Based questions - (?, r, e): 
+
+Erna Wazinski: 20.0
+Wurminfektionen der Katze: 20.0
+Graf Öderland: 18.2
+Hans Schnitzler: 18.2
+Der Raubfisch: 16.7
+Fadenwurminfektionen des Hundes: 14.3
+Bürgerpark und Stadtwald: 12.5
+Brand von Glarus: 12.5
+Königseiche: 9.1
+Weinbergkirche (Dresden): 8.3
+Eidgenössische Bank: 7.8
+Schweiz ohne Armee? Ein Palaver: 7.4
+Berliner Volks-Zeitung: 5.9
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 5.6
+Haus Fürsteneck: 4.2
+Jüdische Gemeinde Esens: 4.1
+Hamburger Tageblatt: 3.9
+Paul Parey Zeitschriftenverlag: 2.8
+Staatliche Zeichenakademie Hanau: 2.6
+Kunstgewerbe- und Handwerkerschule Magdeburg: 1.8
+Sperber (Schiff, 1938): 0.0
+Kettenschifffahrt auf dem Main: 0.0
+
+Average F1 score: 8.9

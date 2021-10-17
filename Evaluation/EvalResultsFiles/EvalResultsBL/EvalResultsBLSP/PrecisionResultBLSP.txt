@@ -1,0 +1,26 @@
+PRECISION results for Subject Position with Baseline questions - (e, r, ?): 
+
+Der Raubfisch: 54.5
+Sperber (Schiff, 1938): 51.4
+Graf Öderland: 47.4
+Haus Fürsteneck: 47.4
+Hamburger Tageblatt: 47.1
+Eidgenössische Bank: 45.8
+Weinbergkirche (Dresden): 42.9
+Paul Parey Zeitschriftenverlag: 42.9
+Hans Schnitzler: 32.9
+Staatliche Zeichenakademie Hanau: 32.4
+Berliner Volks-Zeitung: 26.3
+Schweiz ohne Armee? Ein Palaver: 21.7
+Wurminfektionen der Katze: 20.0
+Brand von Glarus: 20.0
+Kunstgewerbe- und Handwerkerschule Magdeburg: 18.6
+Jüdische Gemeinde Esens: 18.2
+Erna Wazinski: 13.7
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 13.3
+Kettenschifffahrt auf dem Main: 6.7
+Fadenwurminfektionen des Hundes: 0.0
+Bürgerpark und Stadtwald: 0.0
+Königseiche: 0.0
+
+Average PRECISION score: 27.4

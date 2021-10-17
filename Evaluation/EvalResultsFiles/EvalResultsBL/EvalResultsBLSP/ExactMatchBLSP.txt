@@ -1,0 +1,26 @@
+EXACT MATCH results for Subject Position with Baseline questions - (e, r, ?): 
+
+Sperber (Schiff, 1938): 34.6
+Hamburger Tageblatt: 32.0
+Der Raubfisch: 21.4
+Paul Parey Zeitschriftenverlag: 21.4
+Graf Öderland: 20.5
+Berliner Volks-Zeitung: 20.0
+Haus Fürsteneck: 18.4
+Weinbergkirche (Dresden): 18.4
+Eidgenössische Bank: 13.4
+Schweiz ohne Armee? Ein Palaver: 11.4
+Staatliche Zeichenakademie Hanau: 10.5
+Hans Schnitzler: 10.4
+Kunstgewerbe- und Handwerkerschule Magdeburg: 7.0
+Brand von Glarus: 4.4
+Jüdische Gemeinde Esens: 4.0
+Erna Wazinski: 3.0
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 2.9
+Wurminfektionen der Katze: 2.4
+Kettenschifffahrt auf dem Main: 1.9
+Fadenwurminfektionen des Hundes: 0.0
+Bürgerpark und Stadtwald: 0.0
+Königseiche: 0.0
+
+Average EXACT MATCH score: 11.7

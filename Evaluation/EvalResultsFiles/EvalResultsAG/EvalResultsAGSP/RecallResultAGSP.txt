@@ -1,0 +1,26 @@
+RECALL results for Subject Position with Translation-Based questions - (e, r, ?): 
+
+Der Raubfisch: 52.2
+Sperber (Schiff, 1938): 45.7
+Graf Öderland: 42.1
+Haus Fürsteneck: 39.5
+Eidgenössische Bank: 39.2
+Fadenwurminfektionen des Hundes: 33.3
+Weinbergkirche (Dresden): 32.6
+Paul Parey Zeitschriftenverlag: 28.1
+Hamburger Tageblatt: 25.0
+Berliner Volks-Zeitung: 21.9
+Jüdische Gemeinde Esens: 21.7
+Schweiz ohne Armee? Ein Palaver: 20.8
+Bürgerpark und Stadtwald: 16.7
+Hans Schnitzler: 15.6
+Erna Wazinski: 15.2
+Wurminfektionen der Katze: 14.3
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 13.3
+Kettenschifffahrt auf dem Main: 13.3
+Brand von Glarus: 12.5
+Staatliche Zeichenakademie Hanau: 9.6
+Kunstgewerbe- und Handwerkerschule Magdeburg: 6.3
+Königseiche: 0.0
+
+Average RECALL score: 23.6

@@ -1,0 +1,26 @@
+F1 results for Object Position with Human-Generated questions - (?, r, e): 
+
+Der Raubfisch: 75.0
+Schweiz ohne Armee? Ein Palaver: 66.7
+Graf Öderland: 63.6
+Haus Fürsteneck: 46.8
+Hans Schnitzler: 45.5
+Bürgerpark und Stadtwald: 43.7
+Erna Wazinski: 40.0
+Wurminfektionen der Katze: 40.0
+Kettenschifffahrt auf dem Main: 34.4
+Weinbergkirche (Dresden): 33.3
+Sperber (Schiff, 1938): 30.0
+Fadenwurminfektionen des Hundes: 28.6
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 27.8
+Königseiche: 27.2
+Hamburger Tageblatt: 23.5
+Eidgenössische Bank: 15.7
+Berliner Volks-Zeitung: 11.9
+Staatliche Zeichenakademie Hanau: 7.5
+Paul Parey Zeitschriftenverlag: 5.8
+Kunstgewerbe- und Handwerkerschule Magdeburg: 3.5
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+
+Average F1 score: 30.5

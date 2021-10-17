@@ -1,0 +1,26 @@
+F1 results for Object Position with Baseline questions - (?, r, e): 
+
+Der Raubfisch: 33.3
+Bürgerpark und Stadtwald: 31.3
+Erna Wazinski: 20.0
+Wurminfektionen der Katze: 20.0
+Haus Fürsteneck: 17.0
+Schweiz ohne Armee? Ein Palaver: 14.8
+Hans Schnitzler: 13.6
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 11.1
+Graf Öderland: 9.1
+Königseiche: 9.1
+Weinbergkirche (Dresden): 8.3
+Berliner Volks-Zeitung: 7.9
+Hamburger Tageblatt: 3.9
+Eidgenössische Bank: 3.9
+Paul Parey Zeitschriftenverlag: 2.8
+Staatliche Zeichenakademie Hanau: 2.6
+Kunstgewerbe- und Handwerkerschule Magdeburg: 1.8
+Fadenwurminfektionen des Hundes: 0.0
+Jüdische Gemeinde Esens: 0.0
+Sperber (Schiff, 1938): 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Brand von Glarus: 0.0
+
+Average F1 score: 9.6

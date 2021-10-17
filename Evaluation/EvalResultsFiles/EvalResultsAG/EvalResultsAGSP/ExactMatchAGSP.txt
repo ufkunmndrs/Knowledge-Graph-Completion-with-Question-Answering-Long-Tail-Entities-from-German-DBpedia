@@ -1,0 +1,26 @@
+EXACT MATCH results for Subject Position with Translation-Based questions - (e, r, ?): 
+
+Sperber (Schiff, 1938): 30.8
+Berliner Volks-Zeitung: 28.0
+Hamburger Tageblatt: 24.0
+Der Raubfisch: 21.4
+Graf Öderland: 18.2
+Paul Parey Zeitschriftenverlag: 16.1
+Haus Fürsteneck: 15.3
+Eidgenössische Bank: 14.4
+Weinbergkirche (Dresden): 14.3
+Bürgerpark und Stadtwald: 12.5
+Schweiz ohne Armee? Ein Palaver: 11.4
+Staatliche Zeichenakademie Hanau: 9.6
+Hans Schnitzler: 9.1
+Kunstgewerbe- und Handwerkerschule Magdeburg: 8.8
+Jüdische Gemeinde Esens: 5.0
+Fadenwurminfektionen des Hundes: 4.8
+Erna Wazinski: 4.3
+Kettenschifffahrt auf dem Main: 3.8
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 2.9
+Brand von Glarus: 2.9
+Wurminfektionen der Katze: 2.4
+Königseiche: 0.0
+
+Average EXACT MATCH score: 11.8

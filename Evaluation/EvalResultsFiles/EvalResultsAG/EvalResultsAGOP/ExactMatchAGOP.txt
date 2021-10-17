@@ -1,0 +1,26 @@
+EXACT MATCH results for Object Position with Translation-Based questions - (?, r, e): 
+
+Berliner Volks-Zeitung: 4.7
+Bürgerpark und Stadtwald: 3.2
+Graf Öderland: 2.8
+Der Raubfisch: 2.5
+Hans Schnitzler: 2.3
+Hamburger Tageblatt: 1.6
+Königseiche: 1.6
+Fadenwurminfektionen des Hundes: 1.5
+Staatliche Zeichenakademie Hanau: 1.5
+Wurminfektionen der Katze: 1.5
+Schweiz ohne Armee? Ein Palaver: 1.4
+Paul Parey Zeitschriftenverlag: 1.3
+Erna Wazinski: 1.1
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 1.0
+Brand von Glarus: 1.0
+Eidgenössische Bank: 0.9
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.8
+Haus Fürsteneck: 0.6
+Weinbergkirche (Dresden): 0.6
+Jüdische Gemeinde Esens: 0.4
+Sperber (Schiff, 1938): 0.0
+Kettenschifffahrt auf dem Main: 0.0
+
+Average EXACT MATCH score: 1.5

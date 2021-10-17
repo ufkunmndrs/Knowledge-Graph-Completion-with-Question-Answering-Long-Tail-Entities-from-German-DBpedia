@@ -1,0 +1,26 @@
+F1 results for Subject Position with Baseline questions - (e, r, ?): 
+
+Der Raubfisch: 53.3
+Sperber (Schiff, 1938): 51.4
+Graf Öderland: 47.4
+Haus Fürsteneck: 47.4
+Weinbergkirche (Dresden): 42.4
+Eidgenössische Bank: 40.6
+Paul Parey Zeitschriftenverlag: 40.0
+Hamburger Tageblatt: 39.0
+Hans Schnitzler: 23.1
+Schweiz ohne Armee? Ein Palaver: 21.2
+Berliner Volks-Zeitung: 19.6
+Brand von Glarus: 19.4
+Jüdische Gemeinde Esens: 17.8
+Wurminfektionen der Katze: 16.7
+Staatliche Zeichenakademie Hanau: 15.9
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 13.3
+Erna Wazinski: 12.0
+Kunstgewerbe- und Handwerkerschule Magdeburg: 7.9
+Kettenschifffahrt auf dem Main: 6.7
+Fadenwurminfektionen des Hundes: 0.0
+Bürgerpark und Stadtwald: 0.0
+Königseiche: 0.0
+
+Average F1 score: 24.3
