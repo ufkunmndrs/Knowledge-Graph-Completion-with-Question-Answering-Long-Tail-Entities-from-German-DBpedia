@@ -1,0 +1,63 @@
+Sterbeort von __?
+Geburtsort von __?
+Standort von __?
+bekannt für von __?
+Beschäftigung von __?
+Residenz von __?
+Ruhestätte von __?
+Wegende von __?
+Wegabzweigung von __?
+Institution von __?
+Arbeitgeber von __?
+bedeutendes Projekt von __?
+Leiche entdeckt von __?
+Hauptsitz von __?
+Heimstadion von __?
+Heimatort von __?
+museum von __?
+benannt nach von __?
+Weganfang von __?
+Team von __?
+Grenze von __?
+Garnison von __?
+Ort des Weganfangs von __?
+Stadt von __?
+Flussmündung von __?
+bedeutendes Design von __?
+Betreiber von __?
+Eigentümer von __?
+bedeutendes Gebäude von __?
+Insel von __?
+Stadion von __?
+Typ von __?
+Verwaltungsgremium von __?
+Ort des Wegendes von __?
+Ausschuss in der Legislative von __?
+Herausgeber von __?
+bedeutender Schrein von __?
+Herkunft von __?
+Politiker von __?
+Abfluss von __?
+nächstgelegene Stadt von __?
+wichtiger Verkehrsknotenpunkt von __?
+Zufluss von __?
+bild von __?
+Baumeister von __?
+Boden von __?
+befindet sich im Bereich von __?
+Mund Berg von __?
+Mundplatz von __?
+Tafel von __?
+Alma Mater von __?
+Kreuze von __?
+Unterteilung von __?
+Kinderorganisation von __?
+seliggesprochener Ort von __?
+Region bedient region von __?
+bemerkenswerte Arbeit von __?
+kanonisierter Ort von __?
+aufgenommen in von __?
+Verknüpft eine Entität mit dem bevölkerten Ort, an dem sie sich befindet. von __?
+Premierenplatz von __?
+mit von __?
+Mutter Berggipfel von __?

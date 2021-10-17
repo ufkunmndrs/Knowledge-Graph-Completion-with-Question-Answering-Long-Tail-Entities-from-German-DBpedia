@@ -1,0 +1,227 @@
+Wo befindet sich __?
+Was ist die Montage von __?
+Was ist der Autor von __?
+Was ist das Sendenetz von __?
+Was ist das Unternehmen von __?
+Was ist der Komponist von __?
+Was ist der Schöpfer (Agent) von __?
+Was ist der Entwickler von __?
+Was ist der Teil von __?
+Wofür ist __ bekannt?
+Was ist der Hersteller von __?
+Was ist der Beruf von __?
+Was ist der Operator von __?
+Was ist der Besitzer von __?
+Was ist die Eigentümergesellschaft von __?
+Was ist die Muttergesellschaft von __?
+Was ist der Vorgänger von __?
+Was ist der Moderator von __?
+Was ist der Hersteller von __?
+Was ist das Produkt von __?
+Was ist die Produktionsfirma von __?
+Was ist der Herausgeber von __?
+Was ist der Nachfolger von __?
+Was ist das Team von __?
+Was ist die Art von __?
+Was ist der Erbauer von __?
+Was ist der Arbeitgeber von __?
+Was ist der Kanal von __?
+Was ist die Institution von __?
+Was ist der Projektteilnehmer von __?
+Was ist der Architekt von __?
+Was ist der Motor von __?
+Was ist die Gründung von __?
+Was ist das Netzwerk von __?
+Was ist die bedienende Bahnlinie von __?
+Was ist die wichtige Station von __?
+Was ist das Schienenfahrzeug von __?
+Welche Fahrzeugtypen gibt es in der Flotte von __?
+Was ist die Klasse von __?
+Was ist die CPU von __?
+Was ist der ausführende Produzent von __?
+Was ist das Siegerteam von __?
+Was wird von __ gepflegt?
+Was ist das zweite Team von __?
+Was ist das dritte Team von __?
+Was ist die Agentur von __?
+Was ist der Gründer von __?
+Was ist das Leitungsgremium von __?
+Was ist der Inhaltsstoff von __?
+Was ist die Schlüsselperson von __?
+Was ist der Musikkomponist von __?
+Was ist das bedeutende Gebäude von __?
+Was ist der Kommandant von __?
+Was ist das Land von __?
+Was ist der Ingenieur von __?
+Womit wird von __ verschmolzen?
+Was ist die Förderung von __?
+Was ist der Ehepartner von __?
+Was ist die Bearbeitung von __?
+Was ist der Herausgeber von __?
+Was ist die Branche von __?
+Was ist der Politiker von __?
+Was ist die Religion von __?
+Was ist der Züchter von __?
+Was ist die Allianz von __?
+Was ist das Album von __?
+Was ist die Auszeichnung von __?
+Was ist die Kette von __?
+Was ist der Hauptsitz von __?
+Was ist die Ideologie von __?
+Was ist der Mieter von __?
+Was ist das Ziel von __?
+Was ist das bedeutende Projekt von __?
+Was ist der Filmregisseur von __?
+Was ist die Reihe von __?
+Wie ist die Befehlsstruktur von __?
+Was ist die Liga von __?
+Was ist die Partei von __?
+Welche Position hat __?
+Was ist die Jahreszeit von __?
+Welche Zuständigkeit hat __?
+Was ist das Bandmitglied von __?
+Welche Ausbildung hat __?
+Was ist das ehemalige Bandmitglied von __?
+Was ist das Genre von __?
+Was ist die Person von __?
+Was ist die weitere Arbeit von __?
+Was ist der Übersetzer von __?
+Welches Format (Objekt) hat __?
+Was ist der Todesort von __?
+Was ist der Geburtsort von __?
+Was ist das Instrument von __?
+Was ist das Routenende von __?
+Was ist das Betriebssystem von __?
+Was ist der Service von __?
+Was ist der Vorsitzende von __?
+Was ist der Verwandte von __?
+Was ist der stilistische Ursprung von __?
+Was ist der Präsident von __?
+Wie ist die Verwaltung von __?
+Welche Autorität hat __?
+Was ist der erste Treiber von __?
+Was ist der Illustrator von __?
+Was ist das Bild von __?
+Was ist der Doktorand von __?
+Was ist der Autor von __?
+Was ist der Anführer von __?
+Was ist die Stimme von __?
+Was ist die Automobilplattform von __?
+Was ist das schnellste Fahrerteam von __?
+Was ist die Lizenz von __?
+Was ist das Kraftstoffsystem von __?
+Was ist der Bezirk von __?
+Was ist die Art der Elektrifizierung von __?
+Was ist die Disziplin von __?
+Was hat __ zu tun?
+Welche Kraftstoffart hat __?
+Worauf basiert __?
+Was ist der Sendebereich von __?
+Was ist die Musik von __?
+Was ist der Beruf von __?
+Was ist der Elternteil von __?
+Was ist die politische Partei in der Legislative von __?
+Was ist der Regierungstyp von __?
+Welche Staatsangehörigkeit hat __?
+Was ist der Ursprung von __?
+Was ist der Wohnsitz von __?
+Was ist das Gebiet von __?
+Was ist die Bahnstrecke mit Tunnel von __?
+Was ist das ehemalige Sendenetz von __?
+Was ist der Startplatz von __?
+Was ist die Militäreinheit von __?
+Was ist der Medientyp von __?
+Was ist der Managerclub von __?
+Was ist die akademische Disziplin von __?
+Wie heißt die Stadt von __?
+Was ist der Club von __?
+Was ist die Sprache von __?
+Was ist das literarische Genre von __?
+Was ist die bisherige Arbeit von __?
+Was ist der Darsteller von __?
+Was ist der Geschäftsführer von __?
+Was ist die Kinematographie von __?
+Was ist der Campus von __?
+Wie ist das Verhältnis von __?
+Welche Rechtsform hat __?
+Welche Farbe hat __?
+Was ist das Gymnasium von __?
+Was ist die Ehre von __?
+Was ist die Garnison von __?
+Welche Person hat zuerst einen Berg von __ bestiegen?
+Was ist die Ausbildung von __?
+Was ist der Vizepräsident von __?
+Was ist die Variante oder Variation von __?
+Was ist der Vorsitzende von __?
+Was ist der Erzähler von __?
+Was ist die Manufaktur von __?
+Wie lautet der Routenstart von __?
+Was ist der Projektkoordinator von __?
+Was ist die Schlacht von __?
+Was ist der Flugzeughubschrauber von __?
+Was ist das Stadion von __?
+Was ist die Karte von __?
+Welchen Einfluss hat __?
+Was ist die Auswahl von __?
+Was ist die Designerfirma von __?
+Was ist der Designer von __?
+Was ist der Verteiler von __?
+Was ist die Teilung von __?
+Was ist das Eröffnungsthema von __?
+Was ist das Plattenlabel von __?
+Welche Region wird von __ bedient?
+Was ist die Tochtergesellschaft von __?
+Was ist der Spielkünstler von __?
+Was ist das Sachbuchthema von __?
+Was ist die Eigentümerorganisation von __?
+Was ist die Mutterorganisation von __?
+Was ist der Vorstand von __?
+Was sind die Kreuze von __?
+Was ist die Vertriebsgesellschaft von __?
+Wie lautet das Vertriebslabel von __?
+Was ist die Leistungsart von __?
+Was ist die Game Engine von __?
+Was ist die bemerkenswerte Arbeit von __?
+Was ist der Cover-Künstler von __?
+Welche Zugehörigkeit hat __?
+Was ist das Hauptorgan von __?
+Was wird von __ verehrt?
+Was ist die untergeordnete Organisation von __?
+Was ist die Computerplattform von __?
+Was ist der Uraufführungsort von __?
+Was ist der Schöpfer von Gericht von __?
+Was ist der Heimathafen von __?
+Was ist der Hub-Flughafen von __?
+Was ist der militärische Zweig von __?
+Was ist die Aufnahme von __?
+Was ist der Zielflughafen von __?
+Was ist die Alma Mater von __?
+Was ist die zugehörige Band von __?
+Was ist der zugehörige Musikkünstler von __?
+Was ist der Mundberg von __?
+Was ist die Mundstelle von __?
+Was ist der Sportverband von __?
+Was ist das zugehörige Transportmittel von __?
+Was ist der Sprachregulator oder die Akademie von __?
+Was ist der Wiederaufbau von __?
+Was ist der Motortyp von __?
+Was ist die Hauptrolle von __?
+Was ist der Schulvorstand von __?
+Was ist das Haus von __?
+Was ist der Grund von __?
+Was ist das Pole Driver Team von __?
+Welches Land verwendet __?
+Wie ist das Herkunftsland von __?
+Was ist die Gemeinde von __?
+Was ist die binomiale Autorität von __?
+Was ist das Programmformat von __?
+Was ist die Schwesterstation von __?
+Was ist der Flugzeugjäger von __?
+Wie ist der Körperstil von __?
+Was ist der Creative Director von __?
+Was ist die Bezeichnung von __?
+Was ist das ehemalige Team von __?
+Was ist das Bezieht eine Entität auf den besiedelten Ort, an dem sie sich befindet. von __?
+Was ist die Flugzeugaufklärung von __?
+Was ist das folgende Ereignis von __?
+Was ist die Schwesterzeitung von __?

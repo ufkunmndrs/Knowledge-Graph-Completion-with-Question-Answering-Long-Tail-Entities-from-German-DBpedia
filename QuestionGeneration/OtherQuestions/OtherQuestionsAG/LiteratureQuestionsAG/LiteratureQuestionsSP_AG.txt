@@ -1,0 +1,45 @@
+Wie viele Seiten hat __?
+Was ist das Erscheinungsdatum von __?
+Was ist der Autor von __?
+Was ist das Land von __?
+Was ist der Illustrator von __?
+Was ist die Sprache von __?
+Was ist das literarische Genre von __?
+Was ist der Medientyp von __?
+Was ist die bisherige Arbeit von __?
+Was ist der Herausgeber von __?
+Was ist die Reihe von __?
+Was ist die weitere Arbeit von __?
+Was ist der Übersetzer von __?
+Was ist der Besitzer von __?
+Was ist das Genre von __?
+Was ist der Autor von __?
+Was ist der Entwickler von __?
+Was ist die Laufzeit (s) von __?
+Was ist der ausführende Produzent von __?
+Was ist die Art von __?
+Was ist die Laufzeit (m) von __?
+Wie lautet der Untertitel von __?
+Was ist das Schicksal von __?
+Was ist das Gründungsjahr von __?
+Was ist die Gründung von __?
+Was ist die Branche von __?
+Was ist die Muttergesellschaft von __?
+Was ist das Fertigstellungsdatum von __?
+Wie viele Folgen hat __?
+Was ist der Schöpfer (Agent) von __?
+Was ist das Netzwerk von __?
+Was ist die Person von __?
+Was ist der Hersteller von __?
+Was hat __ zu tun?
+Was ist die Dewey-Dezimalklassifikation von __?
+Wie lautet die IMDB-ID von __?
+Wie lautet die ISBN von __?
+Was ist die LCC von __?
+Was ist der OCLC von __?
+Was ist das Erscheinungsdatum von __?
+Was ist der Cover-Künstler von __?
+Was ist das Sachbuchthema von __?
+Was ist der Designer von __?
+Wie lautet die VIAF-ID von __?
+Was ist die Hauptrolle von __?

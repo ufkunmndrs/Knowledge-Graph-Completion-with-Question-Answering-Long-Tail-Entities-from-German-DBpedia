@@ -1,0 +1,57 @@
+Was ist das Datum von __?
+Wie groß ist die Bildgröße (px) von __?
+Was ist die issn von __?
+Was ist das Jahr von __?
+Wie heißt die Stadt von __?
+Was ist das Land von __?
+Was ist der Schöpfer (Agent) von __?
+Was ist der Herausgeber von __?
+Was ist das Genre von __?
+Was ist die Sprache von __?
+Was ist der Herausgeber von __?
+Was ist der Fotograf von __?
+Wie lautet die Beschreibung von __?
+Was ist der Gründer von __?
+Was ist der Geburtsort von __?
+Wie lautet das Geburtsdatum von __?
+Was ist die Partei von __?
+Was ist das Gründungsjahr von __?
+Was ist die Muttergesellschaft von __?
+Wo befindet sich __?
+Wie viele Mitarbeiter hat __?
+Was ist das Gründungsdatum von __?
+Was ist der Hauptsitz von __?
+Was ist der Besitzer von __?
+Was ist die Art von __?
+Was ist der Impact-Faktor von __?
+Wie hoch ist der Impact Factor ab __?
+Was ist der Open-Access-Inhalt von __?
+Was ist die Abkürzung von __?
+Was ist das erste Veröffentlichungsdatum von __?
+Was ist das erste Erscheinungsjahr von __?
+Wie häufig wird __ veröffentlicht?
+Was ist die akademische Disziplin von __?
+Was ist das Feld von __?
+Was ist die Institution von __?
+Was ist der Kommandant von __?
+Was ist der Operator von __?
+Was sind die aktiven Jahre von __?
+Wofür wird __ ursprünglich verwendet?
+Wie hoch ist die Zahl der Todesfälle von __?
+Welches Format (Objekt) hat __?
+Was ist die Gründung von __?
+Was ist die Schlüsselperson von __?
+Was ist der Hintergrund von __?
+Wie hoch ist die Auflage von __?
+Wie lautet die Darstellungsbeschreibung (Bildunterschrift) von __?
+Wie lautet der Herausgebertitel von __?
+Was ist das Logo von __?
+Was ist der vorherige Herausgeber von __?
+Was ist die Alma Mater von __?
+Was ist die Laufzeit von __?
+Was ist das Startjahr des aktiven Jahres von __?
+Was ist die zugehörige Band von __?
+Was ist der zugehörige Musikkünstler von __?
+Was ist das Plattenlabel von __?
+Was ist der OCLC von __?
+Was ist die LCCN von __?

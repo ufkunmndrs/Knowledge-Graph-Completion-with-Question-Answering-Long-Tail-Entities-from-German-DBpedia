@@ -1,0 +1,232 @@
+Was ist der Todesort von __?
+Was ist das Sterbedatum von __?
+Was ist der Geburtsort von __?
+Wie lautet das Geburtsdatum von __?
+Was ist die Militäreinheit von __?
+Wie ist der Geburtsname von __?
+Was ist das Geburtsjahr von __?
+Was ist das Todesjahr von __?
+Was ist das aktuelle Mitglied von __?
+Was ist die Todesursache von __?
+Welche Ausbildung hat __?
+Welche Staatsangehörigkeit hat __?
+Was ist der Beruf von __?
+Was ist der Elternteil von __?
+Welche Position hat __?
+Was ist die Ruhestätte von __?
+Was wird von __ wahrgenommen?
+Was ist das Motiv von __?
+Was ist der Hintergrund von __?
+Was ist die Höhe (μ) von __?
+Was ist das Kind von __?
+Was ist das Genre von __?
+Was ist die Heimatstadt von __?
+Wie groß ist (cm) von __?
+Wie ist die Gesamtbilanz von __?
+Wie lautet der ursprüngliche Name von __?
+Was ist die akademische Disziplin von __?
+Was ist das Land von __?
+Was ist der Schöpfer (Agent) von __?
+Was ist die Partei von __?
+Was ist der Wohnsitz von __?
+Was ist der Ehepartner von __?
+Was ist die Institution von __?
+Was ist der Verwandte von __?
+Was ist die Schlagseite von __?
+Was ist die Bowling-Seite von __?
+Wie lautet der Titel von __?
+Was ist die Schlacht von __?
+Was wird von __ beeinflusst?
+Wofür ist __ bekannt?
+Was ist die Karrierestation von __?
+Welche Staatsbürgerschaft hat __?
+Was ist der Arbeitgeber von __?
+Was ist der Militärdienst von __?
+Was ist die Personenfunktion von __?
+Was ist die Schule von __?
+Was ist der militärische Befehl von __?
+Was ist die Auszeichnung von __?
+Was ist der Vorgänger von __?
+Was ist die Religion von __?
+Was ist der Nachfolger von __?
+Was ist die Diözese von __?
+Was ist der Gouverneur von __?
+Was ist der Beruf von __?
+Wie lautet das Pseudonym von __?
+Wie groß ist die Anzahl von __?
+Was ist das Gewicht (g) von __?
+Was ist das Instrument von __?
+Was ist das Team von __?
+Was ist das Gymnasium von __?
+Was ist die Doktoratsberatung von __?
+Was ist der Vater von __?
+Was ist der Managerclub von __?
+Was wiegt (kg) von __?
+Wie ist das Verhältnis von __?
+Was ist die Bewegung von __?
+Welchen Einfluss hat __?
+Was ist die Ausbildung von __?
+Was ist die Signatur von __?
+Was ist das Feld von __?
+Was ist die Region von __?
+Was ist die Rasse von __?
+Was ist die andere Partei von __?
+Was ist das Rennpferd von __?
+Was ist die Liga von __?
+Was ist das Kollegium von __?
+Was ist die Ehre von __?
+Welche Augenfarbe hat __?
+Welche Haarfarbe hat __?
+Wie ist der Turnierrekord von __?
+Was ist das (politische) Amt von __?
+Was ist der Trainer von __?
+Was ist der Doktorand von __?
+Wie hoch ist das Gehalt ($) von __?
+Was ist der Block von __?
+Was ist die Spitze von __?
+Was ist die BBR von __?
+Was ist der Club von __?
+Was ist die Nationalmannschaft von __?
+Was ist das Portfolio von __?
+Was ist die Disziplin von __?
+Was ist der aktuelle Partner von __?
+Was ist der militärische Rang von __?
+Was ist der Vizepräsident von __?
+Was ist die Mutter von __?
+Was ist das Ereignis von __?
+Was ist das beste Ranking-Ergebnis von __?
+Was sind die Jahrhundertbrüche von __?
+Was ist die höchste Pause von __?
+Was ist das Sportland von __?
+Was ist der höchste Rang von __?
+Was ist die Sprache von __?
+Wo befindet sich __?
+Was ist der Premierminister von __?
+Was ist die Universität von __?
+Was ist der ehemalige Partner von __?
+Was ist der Entwurf von __?
+Was ist der Präsident von __?
+Wie lautet das Motto von __?
+Wie ist der Status von __?
+Was ist der Trainer von __?
+Was ist der Choreograf von __?
+Was ist der ehemalige Trainer von __?
+Was ist der ehemalige Choreograf von __?
+Was ist die Ruhmeshalle von __?
+Was ist der Gewinn von __?
+Was ist das erste Rennen von __?
+Was ist das letzte Rennen von __?
+Was sind die Meisterschaften von __?
+Was ist die schnellste Runde von __?
+Was sind die Podestplätze von __?
+Was sind die Pole von __?
+Was sind die Rassen von __?
+Was sind die anderen Gewinne von __?
+Wie hoch sind die Ranglistengewinne von __?
+Was ist der Partner von __?
+Wie viel Zeit hat die Person insgesamt in Raum(en) von __ verbracht?
+Was ist die Mission von __?
+Was ist die Auswahl von __?
+Wie viel Zeit hat die Person insgesamt im Raum (m) von __ verbracht?
+Was ist der Gewinn von __ in Europa?
+Was ist das Bild von __?
+Was ist der Hauptschrein von __?
+Wie ist die Bewertung von __?
+Was ist der Vorwurf von __?
+Wie hoch ist die Verurteilungsstrafe von __?
+Wie lautet der alternative Name von __?
+Was ist das bedeutende Projekt von __?
+Was ist der Monarch von __?
+Was ist der Ausschuss von __?
+Was ist der Leutnant von __?
+Was ist die Agentur von __?
+Was sind die aktiven Jahre von __?
+Wie viele Filme hat __?
+Was ist der Begräbnisort von __?
+Was ist der erste Gewinn von __?
+Was ist der letzte Sieg von __?
+Was ist das bedeutende Gebäude von __?
+Welche Leiche wurde von __ entdeckt?
+Was ist der Sport von __?
+Was ist die Hüftgröße (μ) von __?
+Was ist die Taillenweite (μ) von __?
+Was ist der Stellvertreter von __?
+Was ist die individualisierte GND-Nummer von __?
+Was ist die Treue von __?
+Was ist das Dienstende von __?
+Was ist das Dienstbeginnjahr von __?
+Wie lautet die Kadernummer von __?
+Was ist die Alma Mater von __?
+Wie ist das Herkunftsland von __?
+Was ist das aktive Jahresendjahr von __?
+Was ist das Startjahr des aktiven Jahres von __?
+Was ist der Alias ​​von __?
+Was ist die zugehörige Band von __?
+Was ist der zugehörige Musikkünstler von __?
+Was ist das Plattenlabel von __?
+Was ist die Laufzeit von __?
+Was ist der letzte Auftritt von __?
+Was ist der bemerkenswerte Schüler von __?
+Was ist der Darsteller von __?
+Was ist der erste Auftritt von __?
+Was ist das Enddatum des aktiven Jahres von __?
+Wie ist die Reihenfolge im Amt von __?
+Was ist der militärische Zweig von __?
+Was ist die bemerkenswerte Arbeit von __?
+Wie lautet die IMDB-ID von __?
+Was ist das Startdatum des aktiven Jahres von __?
+Was ist der Draft-Pick von __?
+Was ist die Draft-Runde von __?
+Was ist das Entwurfsjahr von __?
+Was ist das ehemalige Team von __?
+Was ist die Ruheplatzposition von __?
+Wie hoch ist der aktuelle Rekord von __?
+Wie ist die Trainerbilanz von __?
+Wie hoch ist das Karrierepreisgeld ($) von __?
+Was ist das Spiel von __?
+Was sind die Triebe von __?
+Wie lautet die Servicenummer von __?
+Was wird von __ in Rechnung gestellt?
+Wie hoch ist das Nettovermögen ($) von __?
+Was ist das nicht gezogene Jahr von __?
+Was ist das Debütteam von __?
+Was ist das Draft-Team von __?
+Was ist der akademische Berater von __?
+Was ist die Wurfseite von __?
+Was ist das Brutto ($) von __?
+Was ist das Seligsprechungsdatum von __?
+Was ist das kanonisierte Datum von __?
+Was ist die Seligsprechung von __?
+Was ist der seliggewordene Ort von __?
+Was ist das kanonisierte von von __?
+Was ist der kanonisierte Ort von __?
+Was wird von __ verehrt?
+Was ist der Vorstand von __?
+Was ist die Draft League von __?
+Was ist die potenzielle Liga von __?
+Wie hoch ist der Gewinn bei den Majors von __?
+Was ist der Gewinn bei NWIDE von __?
+Was ist das potenzielle Team von __?
+Was ist das Hauptinteresse von __?
+Was ist die philosophischeSchule von __?
+Was ist die Ära von __?
+Was ist die bemerkenswerte Idee von __?
+Wie lautet die Darstellungsbeschreibung (Bildunterschrift) von __?
+Was ist das Entwurfsteam von __?
+Was ist der Entwurf von __?
+Was ist der Generalgouverneur von __?
+Was ist der Ernenner von __?
+Was ist der Partner von __?
+Wie lautet die Schuhnummer von __?
+Was ist der Bowl-Rekord von __?
+Welches Dienstalter hat __?
+Wie groß ist die Oberweite (Î¼) von __?
+Was ist das Jahr des Weltmeistertitels von __?
+Wie lautet die MBA-ID von __?
+Was ist die ergänzende Draft-Runde von __?
+Was ist das Ergänzungsentwurfsjahr von __?
+Wie lautet die BNF-ID von __?
+Wie lautet die LCCN-ID von __?
+Wie lautet die VIAF-ID von __?
+Wie lautet die ISNI-ID von __?
+Wie lautet die ESPN-ID von __?

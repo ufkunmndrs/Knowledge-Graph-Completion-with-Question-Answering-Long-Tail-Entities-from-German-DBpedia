@@ -1,0 +1,232 @@
+Sterbeort von __?
+Sterbedatum von __?
+Geburtsort von __?
+Geburtsdatum von __?
+Militäreinheit von __?
+Geburtsname von __?
+Geburtsjahr von __?
+Sterbejahr von __?
+aktuelles Mitglied von __?
+Todesursache von __?
+Bildung von __?
+Nationalität von __?
+Beschäftigung von __?
+Elternteil von __?
+Position von __?
+Ruhestätte von __?
+gefasst von __?
+Motiv von __?
+Hintergrund von __?
+Höhe (μ) von __?
+Kind von __?
+Genre von __?
+Heimatort von __?
+Höhe (cm) von __?
+Gesamtbilanz von __?
+ursprünglicher Namen von __?
+wissenschaftliche Disziplin von __?
+Land von __?
+Urheber von __?
+Partei von __?
+Residenz von __?
+Ehepartner von __?
+Institution von __?
+Verwandter von __?
+Schlagarm von __?
+Werfarm von __?
+Titel von __?
+Schlacht von __?
+beeinflusst durch von __?
+bekannt für von __?
+Karrierestation von __?
+Staatsangehörigkeit von __?
+Arbeitgeber von __?
+service militaire von __?
+Amt von __?
+schule von __?
+Militärkommando von __?
+Auszeichnung von __?
+Vorgänger von __?
+Religion von __?
+Nachfolger von __?
+Diözese von __?
+Gouverneur von __?
+Beruf von __?
+Pseudonym von __?
+Anzahl von __?
+Gewicht (g) von __?
+Instrument von __?
+Team von __?
+Gymnasium von __?
+Doktorvater von __?
+Vater von __?
+Clubmanager von __?
+Gewicht (kg) von __?
+Beziehung von __?
+Bewegung von __?
+beeinflusst von __?
+Ausbildung von __?
+Unterschrift von __?
+Feld von __?
+Region von __?
+Rennen von __?
+andere Partei von __?
+Rennpferd von __?
+Liga von __?
+College von __?
+Ehrungen von __?
+Augenfarbe von __?
+Haarfarbe von __?
+Turnierrekord von __?
+(politisches) Amt von __?
+Trainer von __?
+Doktorand von __?
+Gehalt ($) von __?
+Block von __?
+schmettern von __?
+BBR von __?
+Verein von __?
+Nationalmannschaft von __?
+Portfolio von __?
+Disziplin von __?
+aktueller Partner von __?
+militärischer Rang von __?
+Vizepräsident von __?
+Mutter von __?
+Veranstaltung von __?
+beste Platzierung im Ranglistenturnier von __?
+Century Breaks von __?
+Höchstes Break von __?
+Sportnation von __?
+höchster Ranglistenplatz von __?
+Sprache von __?
+Standort von __?
+Premierminister von __?
+Universität von __?
+ehemaliger Partner von __?
+Entwurf von __?
+Präsident von __?
+Motto von __?
+Status von __?
+Trainer von __?
+Choreograph von __?
+Ex-Trainer von __?
+ehemaliger Choreograph von __?
+Ruhmeshalle von __?
+Siege von __?
+erstes Rennen von __?
+letztes Rennen von __?
+gewonnene Title von __?
+schnellste Runde von __?
+Podestplätze von __?
+Pole von __?
+Rennen von __?
+Sonstige Siege von __?
+Siege in Ranglistenturnieren von __?
+Partner von __?
+Gesamtzeit welche die Person im Weltraum verbracht hat (s) von __?
+Mission von __?
+Auswahl von __?
+Gesamtzeit welche die Person im Weltraum verbracht hat (m) von __?
+Siege in Europa von __?
+bild von __?
+bedeutender Schrein von __?
+Wertung von __?
+Strafantrag von __?
+Strafe von __?
+alternativer Name von __?
+bedeutendes Projekt von __?
+Monarch von __?
+Ausschuss von __?
+Leutnant von __?
+Agentur von __?
+aktive Jahre von __?
+Anzahl der Filme von __?
+Ort der Bestattung von __?
+erster Sieg von __?
+letzter Sieg von __?
+bedeutendes Gebäude von __?
+Leiche entdeckt von __?
+Sport von __?
+Hüftumfang (μ) von __?
+Taillenumfang (μ) von __?
+Stellvertreter von __?
+Gemeinsame Normdatei von __?
+Treue von __?
+Service Ende Jahr von __?
+Dienststartjahr von __?
+Kadernummer von __?
+Alma Mater von __?
+Herkunftsland von __?
+aktive Jahre Ende Jahr von __?
+aktive Jahre Startjahr von __?
+alias von __?
+zugehörige Band von __?
+assoziierter Musikkünstler von __?
+Plattenlabel von __?
+Laufzeit von __?
+letzter Auftritt von __?
+bemerkenswerter Schüler von __?
+Schilderer von __?
+erster Eindruck von __?
+Enddatum des aktiven Jahres von __?
+im Büro bestellen von __?
+militärischer Zweig von __?
+bemerkenswerte Arbeit von __?
+IMDB-ID von __?
+Startdatum der aktiven Jahre von __?
+Entwurfsauswahl von __?
+Entwurfsrunde von __?
+Entwurfsjahr von __?
+ehemaliges Team von __?
+Ruheplatzposition von __?
+derzeitiger Rekord von __?
+Trainerbilanz von __?
+Karrierepreisgeld ($) von __?
+Theaterstücke von __?
+schießt von __?
+Service Nummer von __?
+in Rechnung gestellt von __?
+Nettovermögen ($) von __?
+nicht gezogenes Jahr von __?
+Debüt-Team von __?
+Entwurfsteam von __?
+akademischer Berater von __?
+Wurfseite von __?
+brutto ($) von __?
+Seliggesprochenes Datum von __?
+kanonisiertes Datum von __?
+seliggesprochen von von __?
+seliggesprochener Ort von __?
+heiliggesprochen von von __?
+kanonisierter Ort von __?
+verehrt in von __?
+Tafel von __?
+Draft Liga von __?
+potenzielle Liga von __?
+gewinnt bei Majors von __?
+gewinnt bei NWIDE von __?
+Interessenten-Team von __?
+Hauptinteresse von __?
+philosophischeSchule von __?
+es war von __?
+bemerkenswertIdee von __?
+Beschreibung der Darstellung (Bildunterschrift) von __?
+was für ein Draft-Team von __?
+was Entwurf von __?
+Generalgouverneur von __?
+Ernennung von __?
+assoziieren von __?
+Schuhnummer von __?
+Schüssel-Rekord von __?
+Dienstalter von __?
+Oberweite (Î¼) von __?
+Jahr des Weltmeistertitels von __?
+MBA-ID von __?
+ergänzende Entwurfsrunde von __?
+Ergänzungsentwurf Jahr von __?
+BNF-ID von __?
+LCCN-ID von __?
+VIAF-ID von __?
+ISNI-ID von __?
+ESPN-ID von __?

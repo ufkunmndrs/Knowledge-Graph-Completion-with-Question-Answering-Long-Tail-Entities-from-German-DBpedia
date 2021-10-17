@@ -1,0 +1,205 @@
+Standort von __?
+Passagiere pro Tag von __?
+Schicksal von __?
+früherer Name von __?
+Gründungsdatum von __?
+Gründungsjahr von __?
+Anzahl der Mitarbeiter von __?
+Anzahl der Standorte von __?
+Passagiere pro Jahr von __?
+Zweck von __?
+Einnahmen ($) von __?
+Land von __?
+gegründet von von __?
+Genre von __?
+Hauptsitz von __?
+Industrie von __?
+Schlüsselperson von __?
+Betreiber von __?
+Eigentümer von __?
+Besitzerfirma von __?
+Muttergesellschaft von __?
+Vorgänger von __?
+Produkt von __?
+Dienst von __?
+Typ von __?
+Ziel von __?
+Fahrzeugtypen der Flotte von __?
+Anzahl der Linien von __?
+ursprünglicher Namen von __?
+Nachfolger von __?
+Aktiva ($) von __?
+Gerechtigkeit ($) von __?
+ist ein Teil von von __?
+Anzahl Büros von __?
+Kraftstofftyp von __?
+wichtiger Verkehrsknotenpunkt von __?
+Allianz von __?
+Anzahl Rechtsanwälte von __?
+Nettoergebnis ($) von __?
+Betriebsergebnis ($) von __?
+aktueller Status von __?
+Anzahl der Fahrzeuge von __?
+Streckenlänge (μ) von __?
+Rechtsform von __?
+Art der Elektrifizierung von __?
+Schließungsjahr von __?
+Anzahl der Stationen von __?
+Eröffnungsdatum von __?
+Eröffnungsjahr von __?
+Beschäftigung von __?
+Durchschnittsgeschwindigkeit (kmh) von __?
+Höchstgeschwindigkeit (kmh) von __?
+Spurweite Eisenbahn (μ) von __?
+Voltzahl der Elektrifizierung (V) von __?
+Gründer von __?
+Geburtsdatum von __?
+Geburtsjahr von __?
+Ehepartner von __?
+Slogan von __?
+Sendebeginn von __?
+Motto von __?
+Sprache von __?
+Handelsname von __?
+Produktion von __?
+Format von __?
+Chefredakteur von __?
+Etat ($) von __?
+Führer von __?
+Zuständigkeit von __?
+Adresse von __?
+Stadt von __?
+Gründungsort von __?
+Zahl der Studierenden von __?
+Staat von __?
+offizielle Schulfarbe von __?
+Provinz von __?
+Anzahl der Freiwilligen von __?
+Startdatum von __?
+Einwohnerzahl von __?
+Postleitzahl von __?
+Bezirk von __?
+Geschäftsführer von __?
+Herausgeber von __?
+schriftsteller von __?
+Sitzplatzkapazität von __?
+Enddatum von __?
+Empfangsgebiet von __?
+bekannt für von __?
+Nationalität von __?
+alternativer Name von __?
+Architekt von __?
+Landkarte von __?
+wissenschaftliche Disziplin von __?
+Institution von __?
+Doktorvater von __?
+Status von __?
+Laufzeit (s) von __?
+autor von __?
+Produzent von __?
+Produktionsfirma von __?
+Laufzeit (m) von __?
+Geburtsort von __?
+Partei von __?
+Wahldatum des Vorsitzenden von __?
+Name in der Legislaturperiode von __?
+politische Partei in der Legislative von __?
+politische Partei des Vorsitzenden von __?
+Geburtsname von __?
+Entwickler von __?
+Betriebssystem von __?
+Lizenz von __?
+Bildformat von __?
+Fläche (m2) von __?
+Baujahr von __?
+Bildung von __?
+Personalbestand von __?
+Befehlshaber von __?
+Digitalkanal von __?
+Arbeitgeber von __?
+Abkürzung von __?
+Mitgliedschaft von __?
+Kind von __?
+Heimatort von __?
+Kommandostruktur von __?
+Garnison von __?
+ISO-Ländercode von __?
+politischer Führer von __?
+Sterbeort von __?
+Sterbedatum von __?
+Sterbejahr von __?
+Ruhestätte von __?
+Titel von __?
+Diözese von __?
+Herausgeber von __?
+Kompressionsverhältnis von __?
+Ventilsteuerung von __?
+Konfiguration von __?
+Ausgangsleistung (W) von __?
+Hersteller von __?
+Kraftstoffsystem von __?
+Kühlsystem von __?
+Ausgangsleistung (kW) von __?
+Montage von __?
+Kosten ($) von __?
+Mieter von __?
+Vertriebsgesellschaft von __?
+Etikett verteilen von __?
+Einteilung von __?
+Zustand von __?
+Region bedient region von __?
+Tochtergesellschaft von __?
+Zielflughafen von __?
+ICAO-Code von __?
+Jahr des ausgewiesenen Umsatzes von __?
+Einsendeschluss von __?
+Auflösungsdatum von __?
+Auflösungsjahr von __?
+IATA-Code von __?
+Drehkreuz Flughafen von __?
+Schulungstermin von __?
+Standort Stadt von __?
+Meldemarke von __?
+verwaltetes Vermögen ($) von __?
+LeaderFunktion von __?
+Verkehr von __?
+LCCN-ID von __?
+Gründungsjahr von __?
+Mutterorganisation von __?
+Zugehörigkeit von __?
+Entfernung zum Charing Cross (Î¼) von __?
+Gitter Referenz von __?
+aktive Jahre Ende Jahr von __?
+aktive Jahre Startjahr von __?
+alias von __?
+Herkunftsland von __?
+VIAF-ID von __?
+Alma Mater von __?
+mit von __?
+Laufzeit von __?
+Abrissdatum von __?
+letzter Wahltermin von __?
+Baubeginn von __?
+IMDB-ID von __?
+neueste Release-Version von __?
+Veröffentlichungsdatum von __?
+Computerplattform von __?
+NRHP-Referenznummer von __?
+architektonischer Stil von __?
+Nettovermögen ($) von __?
+Rufzeichen von __?
+Kinderorganisation von __?
+Enddatum des Gebäudes von __?
+derzeit verwendet für von __?
+Zylinderbohrung (Î¼) von __?
+Kolbenhub (Î¼) von __?
+Drehmomentabgabe (Nm) von __?
+Verdrängung (Î¼Â³) von __?
+Produktionsende Jahr von __?
+Produktionsstartjahr von __?
+Blocklegierung von __?
+Kopflegierung von __?
+Zylinderbohrung (mm) von __?
+Hubraum (cm³) von __?
+Kolbenhub (mm) von __?
+Drehmomentabgabe (Nm) von __?

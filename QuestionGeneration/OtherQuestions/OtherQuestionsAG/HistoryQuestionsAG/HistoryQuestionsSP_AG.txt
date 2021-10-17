@@ -1,0 +1,68 @@
+Wo befindet sich __?
+Was ist das Datum von __?
+Wie groß ist der Abstand (μ) von __?
+Was ist das Startdatum von __?
+Wie lautet der Titel von __?
+Wie heißt die Stadt von __?
+Was ist das Land von __?
+Was ist der schnellste Fahrer von __?
+Was ist das schnellste Fahrerteam von __?
+Was ist der erste Treiber von __?
+Was ist das Siegerteam von __?
+Was ist das vorherige Ereignis von __?
+Was ist der zweite Treiber von __?
+Was ist das zweite Team von __?
+Was ist das Team von __?
+Was ist der dritte Treiber von __?
+Was ist das dritte Team von __?
+Wie groß ist die Entfernung (km) von __?
+Wie viele Tore haben __ erzielt?
+Was ist das schnellste Fahrerland von __?
+Was ist der Name von __?
+Was ist der Champion von __?
+Wie spät ist __?
+Was ist der Kämpfer von __?
+Was ist das Ergebnis von __?
+Was ist der Teil des militärischen Konflikts von __?
+Wie hoch ist das Budget ($) von __?
+Was ist die Kategorie von __?
+Wie hoch sind die Verluste von __?
+Was ist die Dauer (s) von __?
+Was ist die Stärke von __?
+Was ist der Kommandant von __?
+Was ist das Enddatum von __?
+Was ist der Eröffnungsfilm von __?
+Wie lauten die Noten von __?
+Wie ist die Organisation von __?
+Wie lautet das Motto von __?
+Wie ist der Status von __?
+Was ist der Filmregisseur von __?
+Was ist das Ereignis von __?
+Was ist das Gebiet von __?
+Wie ist der Kurs (Î¼) von __?
+Wie lang sind die Runden von __?
+Welche Zugehörigkeit hat __?
+Was ist das erste Fahrerland von __?
+Was ist der ersteFührer von __?
+Was ist das folgende Ereignis von __?
+Was ist das zweite Fahrerland von __?
+Was ist der zweiteFührer von __?
+Was ist das dritte Fahrerland von __?
+Wie ist die Strecke (km) von __?
+Was ist der Tod von __?
+Was ist der Poltreiber von __?
+Was ist das Pole Driver Team von __?
+Was ist das Pole Driver Land von __?
+Was ist der Champion im Doppelmännchen von __?
+Was ist der Champion im Single-Mann von __?
+Was sind die bestätigten Fälle von __?
+Was ist das Bezieht eine Entität auf den besiedelten Ort, an dem sie sich befindet. von __?
+Welche Art von Tennisbelag hat __?
+Was ist der Champion im Doppel weiblich von __?
+Was ist der Champion im Single Female von __?
+Was sind die Ursachen von __?
+Was ist der Abschlussfilm von __?
+Was ist der Champion im Mixed Double von __?
+Was ist die erstePopularVote von __?
+Was ist die zweitePopularVote von __?
+Was sind die Verdachtsfälle von __?

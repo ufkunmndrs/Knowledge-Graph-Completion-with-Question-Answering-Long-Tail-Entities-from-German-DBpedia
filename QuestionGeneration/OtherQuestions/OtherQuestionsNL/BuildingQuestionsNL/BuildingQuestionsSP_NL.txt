@@ -1,0 +1,101 @@
+Wo ist der Standort von __?
+Welche Sammlung gibt es in __?
+Was ist die Adresse von __?
+Was ist der alternative Name von __?
+Wie viele Betten hat __?
+Wie hoch waren die Kosten für __?
+Welche Küche wird in __ angeboten?
+Was war der frühere Name von __?
+Was ist das Gründungsdatum von __?
+Wie hoch ist __?
+Was ist das Eröffnungsdatum von __?
+Was ist das Eröffnungsjahr von __?
+Was ist der ursprüngliche Name von __?
+Was ist die Sitzplatzkapazität von __?
+Was ist der Status von __?
+Wer ist der Architekt von __?
+In welcher Stadt ist __?
+In welchem Land ist __?
+Was ist das Genre von __?
+Wer ist der Eigentümer von __?
+Wer ist der Mieter von __?
+Was für ein Typ ist __?
+Wie groß ist die Fläche von __?
+Was ist das Baujahr von __?
+Was ist die nächstgelegene Stadt von __?
+Was ist ein Bild von __?
+In welcher Region ist __?
+In welchem Staat ist __?
+Wie viele Besucher hat __?
+Was ist das Verwaltingsgremium von __?
+Was ist der Code von __?
+In welchem Jahr wurde __ geschlossen?
+Wie viele Restaurants hat __?
+Wie viele Zimmer hat __?
+Wer ist der Betreiber von __?
+Wer ist der Baumeister von __?
+Wer ist der Entwickler von __?
+Wer ist der Küchenchef von __?
+Was ist die Sprache von __?
+Was ist die Wertung von __?
+Was ist das Material von __?
+Was ist das Wiedereröffnungsdatum von __?
+Wie viele Reservierungen gibt es in __?
+Wie viele Aufzüge gibt es in __?
+Wer ist der Regisseur von __?
+Wer ist der Präsident von __?
+Welche Auszeichnung hat __ erhalten?
+Wie groß ist die Fläche von __?
+Wie viele Parkplätze hat __?
+Wie breit ist __?
+In welchem Bezirk ist __?
+Wie viele Geschäfte gibt es in __?
+Was ist die Klassifikation von __?
+Wer ist der Koch von __?
+Für was ist __ bekannt?
+Was ist die Bevölkerungsdichte von __?
+Wie groß ist die Einwohnerzahl von __?
+Was ist die Postleitzahl von __?
+Wer ist der politische Führer von __?
+Wie groß ist die Fläche von __?
+Wie groß ist die Bevölkerungsdichte von __?
+Wer ist der Kurator von __?
+Was ist das Tragsystem von __?
+Wer ist der Ingenieur von __?
+Wie groß ist der Durchmesser von __?
+Nach wem ist __ benannt?
+Was ist der Slogan von __?
+Welcher Sendergruppe gehört __?
+Welcher Kette gehört __?
+Was ist die Kapazität von __?
+Was ist die Anzahl von __?
+Wie ist das Gewicht von __?
+Wer ist der Hersteller von __?
+Was ist das Gewicht von __?
+Wer ist der Schaffer von __?
+Was ist das Format von __?
+Was ist das Datum des Bauendes von __?
+Wann ist das Datum des Baubeginns von __?
+Wie viele Stockwerke hat __?
+Nach welchem architektonischen Stil wurde __ gebaut?
+Was ist die NRHP-Referenznummer von __?
+Wie groß ist die Grundfläche von __?
+Wie viele Suites hat __?
+Wie groß ist die Grundfläche von __?
+Welche Kleiderordnung gilt in __?
+Wem ist __ zugehörig?
+Was ist der NRHP-Typ von __?
+Was ist die aktuelle Produktion von __?
+Was ist das Abrissdatum von __?
+Wann wurde __ geschlossen?
+Wann wurde __ verlassen?
+Für was wird __ derzeit verwendet?
+Wann wurde __ aufgelöst?
+Worin wird __ unterteilt?
+Wann wurde __ zerstört?
+Was ist die LCCN-ID von __?
+Was ist die aktuelle Besucherzahl von __?
+Wann wurde __ umgebaut?
+Was ist die IDMB-ID von __?
+Was ist die iucn-Kategorie von __?
+Wer ist der Pastor von __?

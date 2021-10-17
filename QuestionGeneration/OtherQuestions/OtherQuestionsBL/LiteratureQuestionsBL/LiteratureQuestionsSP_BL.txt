@@ -1,0 +1,45 @@
+Anzahl der Seiten von __?
+Veröffentlichungsdatum von __?
+autor von __?
+Land von __?
+Illustrator von __?
+Sprache von __?
+literarische Gattung von __?
+Medientyp von __?
+früheren Arbeiten von __?
+Herausgeber von __?
+Serie von __?
+nachfolgende Arbeiten von __?
+Übersetzer von __?
+Eigentümer von __?
+Genre von __?
+schriftsteller von __?
+Entwickler von __?
+Laufzeit (s) von __?
+Ausführender Produzent von __?
+Typ von __?
+Laufzeit (m) von __?
+Untertitel von __?
+Schicksal von __?
+Gründungsjahr von __?
+gegründet von von __?
+Industrie von __?
+Muttergesellschaft von __?
+Fertigstellungstermin von __?
+Anzahl der Episoden von __?
+Urheber von __?
+Sendergruppe von __?
+Person von __?
+Produzent von __?
+verbunden von __?
+Dewey-Dezimalklassifikation von __?
+IMDB-ID von __?
+ISBN von __?
+LCC von __?
+OCLC von __?
+Veröffentlichungsdatum von __?
+Cover-Künstler von __?
+Sachbuch von __?
+Designer von __?
+VIAF-ID von __?
+mit von __?

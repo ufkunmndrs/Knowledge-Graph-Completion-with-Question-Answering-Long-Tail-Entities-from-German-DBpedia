@@ -1,0 +1,42 @@
+Was sind die Komplikationen von __?
+Was ist das medizinische Fachgebiet von __?
+Was ist die DiseasesDB von __?
+Was ist der ICD9 von __?
+Was ist das ORPHA von __?
+Was ist das Synonym von __?
+Wie lautet die medizinische Diagnose von __?
+Was sind die Symptome von __?
+Was ist die medizinische Ursache von __?
+Was ist das Medikament von __?
+Wie wird __ behandelt?
+Was ist die Differenzialdiagnose von __?
+Was ist das Bild von __?
+Wie lautet der GARDName von __?
+Was ist die GARDNum von __?
+Was ist die AO von __?
+Wie lautet der alternative Name von __?
+Was ist die Klasse von __?
+Was ist die NORD von __?
+Was ist der Name von __?
+Was ist das Thema eMedizin von __?
+Was ist das eMedicine-Thema von __?
+Wie lautet die MeSH-ID von __?
+Was sind die bestätigten Fälle von __?
+Was ist die geneReviewsId von __?
+Wie lautet der geneReviewsName von __?
+Was ist der ICD10 von __?
+Was ist MedlinePlus von __?
+Wie lautet die OMIM-ID von __?
+Was ist der Tod von __?
+Was ist die ICDO von __?
+Was ist der Alias ​​von __?
+Wie lautet die CAS-Nummer von __?
+Was ist der ChEBI von __?
+Was ist der ChEMBL von __?
+Was ist die DrugBank von __?
+Was ist der FDA UNII-Code von __?
+Was ist das KEGG von __?
+Was ist die PubChem von __?
+Wie lautet der ATC-Code von __?
+Was sind die Verdachtsfälle von __?
+Wie lautet der IUPAC-Name von __?

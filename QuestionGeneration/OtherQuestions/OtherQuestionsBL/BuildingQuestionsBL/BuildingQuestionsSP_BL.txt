@@ -1,0 +1,101 @@
+Standort von __?
+Sammlung von __?
+Adresse von __?
+alternativer Name von __?
+Anzahl Betten von __?
+Kosten ($) von __?
+Küche von __?
+früherer Name von __?
+Gründungsdatum von __?
+Höhe (μ) von __?
+Eröffnungsdatum von __?
+Eröffnungsjahr von __?
+ursprünglicher Namen von __?
+Sitzplatzkapazität von __?
+Status von __?
+Architekt von __?
+Stadt von __?
+Land von __?
+Genre von __?
+Eigentümer von __?
+Mieter von __?
+Typ von __?
+Fläche (m2) von __?
+Baujahr von __?
+nächstgelegene Stadt von __?
+bild von __?
+Region von __?
+Staat von __?
+Besucherzahl von __?
+Verwaltungsgremium von __?
+Code von __?
+Schließungsjahr von __?
+Anzahl der Restaurants von __?
+Anzahl der Zimmer von __?
+Betreiber von __?
+Baumeister von __?
+Entwickler von __?
+Küchenchef von __?
+Sprache von __?
+Wertung von __?
+Material von __?
+Wiedereröffnungdatum von __?
+Reservierungen von __?
+Aufzüge von __?
+regisseur von __?
+Präsident von __?
+Auszeichnung von __?
+Fläche (m2) von __?
+Anzahl der Parkplätze von __?
+Breite (μ) von __?
+Bezirk von __?
+Anzahl an Geschäften von __?
+Klassifikation von __?
+Koch von __?
+bekannt für von __?
+Bevölkerungsdichte (/sqkm) von __?
+Einwohnerzahl von __?
+Postleitzahl von __?
+politischer Führer von __?
+Fläche (km2) von __?
+Bevölkerungsdichte (/sqkm) von __?
+Kurator von __?
+Tragsystem von __?
+Ingenieur von __?
+Durchmesser (μ) von __?
+benannt nach von __?
+Slogan von __?
+Sendergruppe von __?
+Kette von __?
+Kapazität von __?
+Anzahl gebaut von __?
+Gewicht (g) von __?
+Hersteller von __?
+Gewicht (kg) von __?
+Urheber von __?
+Format von __?
+Enddatum des Gebäudes von __?
+Baubeginn von __?
+Stockwerkanzahl von __?
+architektonischer Stil von __?
+NRHP-Referenznummer von __?
+Grundfläche (m2) von __?
+Anzahl Suiten von __?
+Grundfläche (m2) von __?
+Kleiderordnung von __?
+Zugehörigkeit von __?
+NRHP-Typ von __?
+aktuelle Produktion von __?
+Abrissdatum von __?
+Einsendeschluss von __?
+Datum des Abbruchs von __?
+derzeit verwendet für von __?
+aufgelöst von __?
+Unterteilung von __?
+Vernichtungsdatum von __?
+LCCN-ID von __?
+Besucherzahl ab as von __?
+Umbaudatum von __?
+IMDB-ID von __?
+iucn-Kategorie von __?
+Pastor von __?

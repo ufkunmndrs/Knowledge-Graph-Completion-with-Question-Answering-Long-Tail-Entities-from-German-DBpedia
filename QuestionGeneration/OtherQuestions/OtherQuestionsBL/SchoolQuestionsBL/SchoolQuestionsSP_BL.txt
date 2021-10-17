@@ -1,0 +1,118 @@
+Standort von __?
+Zahl der Studierenden von __?
+Personal von __?
+Adresse von __?
+Gründungsjahr von __?
+Maskottchen von __?
+Motto von __?
+ursprünglicher Namen von __?
+Postleitzahl von __?
+Teamname von __?
+Stadt von __?
+Farbe von __?
+Land von __?
+Sprache von __?
+Provinz von __?
+Region von __?
+Typ von __?
+Staat von __?
+Bezirk von __?
+Bezirk von __?
+Rangliste von __?
+offizielle Schulfarbe von __?
+Behörde von __?
+Altersgruppe von __?
+durchschnittliche Klassengröße von __?
+Schulgeld ($) von __?
+Etat ($) von __?
+Slogan von __?
+Religion von __?
+Rivale von __?
+lateinische Name von __?
+Schließungsjahr von __?
+gegründet von von __?
+Sport von __?
+Campus von __?
+Kaplan von __?
+Zahl der Studenten von __?
+Gründungsdatum von __?
+Status von __?
+Leiter von __?
+Gebühren ($) von __?
+Liga von __?
+Klasse von __?
+Team von __?
+Vorsitzender von __?
+Kategorie von __?
+Alumni von __?
+Nobelpreisträger von __?
+Anzahl der Mitarbeiter von __?
+Spezialist von __?
+Schlüsselperson von __?
+Fläche (m2) von __?
+Einwohnerzahl von __?
+Fläche (km2) von __?
+Vorwahl von __?
+Höhe (μ) von __?
+politischer Führer von __?
+Zeitzone von __?
+Präsident von __?
+Dekan von __?
+Anzahl der Doktoranden von __?
+Zahl der Studenten von __?
+früherer Name von __?
+Verwalter von __?
+Bedeutung von __?
+Geschlecht von __?
+Rektor von __?
+Vorsitzender von __?
+Universität von __?
+Synonym von __?
+Trainer von __?
+geschlossen von __?
+Treuhänder von __?
+Kanzler von __?
+Einnahmen ($) von __?
+regisseur von __?
+Stadion von __?
+Architekt von __?
+Verwaltungsgremium von __?
+Fakultätsgröße von __?
+wichtig von __?
+niedrigeres Alter von __?
+höheres Alter von __?
+Zugehörigkeit von __?
+Bildungssystem von __?
+Noten von __?
+Kopfetikett von __?
+Schulnummer von __?
+Campusgröße (m2) von __?
+Aufsicht von __?
+Testdurchschnitt von __?
+Schulbehörde von __?
+Campusgröße (km2) von __?
+Campustyp von __?
+nationale Rangliste von __?
+Stiftung ($) von __?
+angebotene Kurse von __?
+Gemeinde von __?
+Konfession von __?
+Schulcode von __?
+Schutzpatronin von __?
+Bar-Pass-Rate von __?
+Schulleiter von __?
+UTC-Offset von __?
+Unterteilung von __?
+Kopf von __?
+Anzahl der Doktoranden von __?
+Einsendeschluss von __?
+Bereich U-Bahn (m2) von __?
+Bevölkerung U-Bahn von __?
+Bereich U-Bahn (km2) von __?
+religiöser Kopf von __?
+Bevölkerung ab von __?
+NRHP-Referenznummer von __?
+Entfernung nach Belfast (Î¼) von __?
+Entfernung nach Dublin (Î¼) von __?
+ACT-Punktzahl von __?
+SAT-Ergebnis von __?

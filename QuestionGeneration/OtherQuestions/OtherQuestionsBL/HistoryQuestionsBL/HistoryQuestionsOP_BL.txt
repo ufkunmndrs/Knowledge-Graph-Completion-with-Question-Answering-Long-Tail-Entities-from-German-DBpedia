@@ -1,0 +1,104 @@
+Vorveranstaltung von __?
+Ehepartner von __?
+Region von __?
+Whalbezirk von __?
+Liga von __?
+Saison von __?
+bedeutendes Gebäude von __?
+Rennen von __?
+erstes Rennen von __?
+letztes Rennen von __?
+Schlacht von __?
+Vorgänger von __?
+Nachfolger von __?
+im Krieg eingesetzt von __?
+schnellster Fahrer Land von __?
+Mieter von __?
+letzter Sieg von __?
+Siege in Europa von __?
+Geburtsort von __?
+ist Teil des militärischen Konflikts von __?
+bekannt für von __?
+Manager von __?
+erster Sieg von __?
+Land von __?
+Veranstaltung von __?
+Position von __?
+Auszeichnung von __?
+Residenz von __?
+nächste Mission von __?
+Beschäftigung von __?
+frührere Mission von __?
+nächste Veranstaltung von __?
+verbunden von __?
+Team von __?
+Ehrungen von __?
+Standort von __?
+Mission von __?
+Dienst von __?
+Moderator von __?
+Produktionsfirma von __?
+bedeutendes Projekt von __?
+Befehlshaber von __?
+Nationalität von __?
+wissenschaftliche Disziplin von __?
+Typ von __?
+Militäreinheit von __?
+Eigentümer von __?
+beeinflusst von __?
+literarische Gattung von __?
+Partei von __?
+Gebiet von __?
+Clubmanager von __?
+Genre von __?
+Sterbeort von __?
+Disziplin von __?
+ähnlich von __?
+basierend auf von __?
+militärischer Rang von __?
+früheren Arbeiten von __?
+Betreiber von __?
+Todesursache von __?
+Elternteil von __?
+Stadt von __?
+benannt nach von __?
+Ruhestätte von __?
+Marsch von __?
+Herkunft von __?
+Kommandostruktur von __?
+Wegende von __?
+Klasse von __?
+Hauptstadt von __?
+bild von __?
+Kind von __?
+folgende Veranstaltung von __?
+Unterteilung von __?
+Sachbuch von __?
+gewinnt bei Majors von __?
+gewinnt bei anderen Turnieren von __?
+gewinnt bei ASIEN von __?
+gewinnt in Japan von __?
+gewinnt bei AUS von __?
+gewinnt bei NWIDE von __?
+Meister im Doppelmännchen von __?
+Champion im Einzel männlich von __?
+militärischer Zweig von __?
+Verknüpft eine Entität mit dem bevölkerten Ort, an dem sie sich befindet. von __?
+bemerkenswerte Arbeit von __?
+Abschlussfilm von __?
+aufgenommen in von __?
+Tochtergesellschaft von __?
+Hauptinteresse von __?
+Startfahrzeug von __?
+Alma Mater von __?
+Zugehörigkeit von __?
+mit von __?
+Verteiler von __?
+Premierenplatz von __?
+zugehörige Band von __?
+assoziierter Musikkünstler von __?
+Tafel von __?
+bemerkenswerter Kommandant von __?
+erstes Fahrerland von __?
+Polfahrerland von __?
+Herkunftsland von __?

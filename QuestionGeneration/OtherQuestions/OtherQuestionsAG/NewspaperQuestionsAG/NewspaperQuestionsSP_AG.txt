@@ -1,0 +1,27 @@
+Was ist das Gründungsdatum von __?
+Was ist der Herausgeber von __?
+Welches Format (Objekt) hat __?
+Was ist die Gründung von __?
+Was ist der Hauptsitz von __?
+Was ist die Sprache von __?
+Was ist der Besitzer von __?
+Was ist der Herausgeber von __?
+Was ist die Art von __?
+Was ist der Chefredakteur von __?
+Wo befindet sich __?
+Was ist das Datum von __?
+Was ist die issn von __?
+Was ist das Jahr von __?
+Wie heißt die Stadt von __?
+Wie groß ist die Bildgröße (px) von __?
+Was ist das Land von __?
+Was ist das Genre von __?
+Was ist der Gründer von __?
+Wie hoch ist die Auflage von __?
+Was ist die Schwesterzeitung von __?
+Was ist der Chefredakteur von __?
+Was ist der Mitherausgeber von __?
+Wie lautet die VIAF-ID von __?
+Wie lautet die Darstellungsbeschreibung (Bildunterschrift) von __?
+Wie lautet der Herausgebertitel von __?
+Was ist das Logo von __?

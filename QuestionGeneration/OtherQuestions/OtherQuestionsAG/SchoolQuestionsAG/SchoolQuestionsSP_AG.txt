@@ -1,0 +1,118 @@
+Wo befindet sich __?
+Wie viele Schüler hat __?
+Was ist das Personal von __?
+Wie lautet die Adresse von __?
+Was ist das Gründungsjahr von __?
+Was ist das Maskottchen von __?
+Wie lautet das Motto von __?
+Wie lautet der ursprüngliche Name von __?
+Wie lautet die Postleitzahl von __?
+Wie lautet der Teamname von __?
+Wie heißt die Stadt von __?
+Welche Farbe hat __?
+Was ist das Land von __?
+Was ist die Sprache von __?
+Was ist die Provinz __?
+Was ist die Region von __?
+Was ist die Art von __?
+Wie ist der Zustand von __?
+Wie heißt der Landkreis __?
+Was ist der Bezirk von __?
+Wie ist das Ranking von __?
+Was ist die offizielle Schulfarbe von __?
+Welche Autorität hat __?
+Was ist die Altersspanne von __?
+Wie groß ist die durchschnittliche Klassengröße von __?
+Wie hoch sind die Studiengebühren ($) von __?
+Wie hoch ist das Budget ($) von __?
+Wie lautet das Motto von __?
+Was ist die Religion von __?
+Was ist der Rivale von __?
+Wie heißt __ auf Latein?
+Was ist das Abschlussjahr von __?
+Was ist die Gründung von __?
+Was ist der Sport von __?
+Was ist der Campus von __?
+Was ist der Kaplan von __?
+Wie viele Absolventen hat __?
+Was ist das Gründungsdatum von __?
+Wie ist der Status von __?
+Was ist der Superintendent von __?
+Wie hoch sind die Gebühren ($) von __?
+Was ist die Liga von __?
+Was sind die Klassen von __?
+Was ist das Team von __?
+Was ist der Vorsitzende von __?
+Was ist die Kategorie von __?
+Was sind die Alumni von __?
+Was sind die Nobelpreisträger von __?
+Wie viele Mitarbeiter hat __?
+Was ist der Spezialist von __?
+Was ist die Schlüsselperson von __?
+Wie groß ist die Gesamtfläche (m2) von __?
+Wie groß ist die Einwohnerzahl von __?
+Wie groß ist die Gesamtfläche (km2) von __?
+Wie lautet die Ortsvorwahl von __?
+Was ist die Höhe (μ) von __?
+Was ist der politische Führer von __?
+Was ist die Zeitzone von __?
+Was ist der Präsident von __?
+Was ist der Dekan von __?
+Wie viele Doktoranden hat __?
+Wie viele Bachelor-Studenten haben __?
+Wie lautet der frühere Name von __?
+Was ist der Administrator von __?
+Was ist die Bedeutung von __?
+Welches Geschlecht hat __?
+Was ist der Rektor von __?
+Was ist der Vorsitzende von __?
+Was ist die Universität von __?
+Was ist das Synonym von __?
+Was ist der Trainer von __?
+Was ist das Geschlossene von __?
+Was ist der Treuhänder von __?
+Was ist der Kanzler von __?
+Wie hoch ist der Umsatz ($) von __?
+Was ist der Filmregisseur von __?
+Was ist das Stadion von __?
+Was ist der Architekt von __?
+Was ist das Leitungsgremium von __?
+Wie groß ist die Fakultätsgröße von __?
+Was ist der Promi von __?
+Was ist das niedrigere Alter von __?
+Was ist das obere Alter von __?
+Welche Zugehörigkeit hat __?
+Was ist das Bildungssystem von __?
+Wie sind die Noten von __?
+Wie lautet die Kopfbezeichnung von __?
+Wie lautet die Schulnummer von __?
+Wie groß ist der Campus (m2) von __?
+Was ist die Aufsicht von __?
+Was ist der Testdurchschnitt von __?
+Was ist der Schulvorstand von __?
+Wie groß ist der Campus (km2) von __?
+Was ist der Campus-Typ von __?
+Wie ist das nationale Ranking von __?
+Wie hoch ist die Ausstattung ($) von __?
+Was sind die angebotenen Klassen von __?
+Was ist die Gemeinde von __?
+Was ist die Bezeichnung von __?
+Wie lautet der Schulcode von __?
+Was ist der Schutzpatron von __?
+Wie hoch ist die Bar-Pass-Rate von __?
+Was ist das Prinzip von __?
+Was ist der UTC-Offset von __?
+Was ist die Unterteilung von __?
+Was ist der Kopf von __?
+Wie viele Doktoranden hat __?
+Was ist das Abschlussdatum von __?
+Wie groß ist die Fläche U-Bahn (m2) von __?
+Wie groß ist die Einwohnerzahl von __?
+Wie groß ist die Fläche U-Bahn (km2) von __?
+Was ist das religiöse Oberhaupt von __?
+Wie groß ist die Einwohnerzahl von __?
+Was ist die NRHP-Referenznummer von __?
+Wie groß ist die Entfernung von __ nach Belfast (Î¼)?
+Wie groß ist die Entfernung von __ nach Dublin (Î¼)?
+Wie hoch ist der ACT-Wert von __?
+Was ist der SAT-Score von __?

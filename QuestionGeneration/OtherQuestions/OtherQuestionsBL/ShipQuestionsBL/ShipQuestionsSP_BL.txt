@@ -1,0 +1,52 @@
+Standort von __?
+Anschaffungszeitpunkt von __?
+Schiffsentwurf (μ) von __?
+Fertigstellungstermin von __?
+Kosten ($) von __?
+Höhe (μ) von __?
+Länge (μ) von __?
+Deplacement (g) von __?
+Status von __?
+Höchstgeschwindigkeit (kmh) von __?
+Klasse von __?
+Land von __?
+Betreiber von __?
+Eigentümer von __?
+Typ von __?
+Baumeister von __?
+Höhe (mm) von __?
+Länge (mm) von __?
+Motto von __?
+Kapazität von __?
+Gewicht (g) von __?
+Baujahr von __?
+Hersteller von __?
+Gewicht (kg) von __?
+Anzahl gebaut von __?
+Breite (μ) von __?
+Breite (mm) von __?
+Eröffnungsdatum von __?
+Sitzplatzkapazität von __?
+Mieter von __?
+Aufnahmedatum von __?
+Stilllegungsdatum von __?
+Kommissionierungsdatum von __?
+hinlegen von __?
+Enddatum des Gebäudes von __?
+Schiffsbalken (Î¼) von __?
+Schiff gestartet von __?
+Stromart von __?
+Heimathafen von __?
+Datum der Taufe von __?
+Jungfernfahrt von __?
+Bestelldatum von __?
+Enddatum des aktiven Jahres von __?
+Startdatum der aktiven Jahre von __?
+Datum der Wiederinbetriebnahme von __?
+aktive Jahre Ende Jahr von __?
+aktive Jahre Startjahr von __?
+Zylinderanzahl von __?
+Motortyp von __?
+Baubeginn von __?
+Einsendeschluss von __?
+IMDB-ID von __?

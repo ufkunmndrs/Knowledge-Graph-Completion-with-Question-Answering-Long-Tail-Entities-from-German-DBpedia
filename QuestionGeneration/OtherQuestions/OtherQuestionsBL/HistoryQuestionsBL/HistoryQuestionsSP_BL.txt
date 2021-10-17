@@ -1,0 +1,68 @@
+Standort von __?
+Datum von __?
+Entfernung (μ) von __?
+Startdatum von __?
+Titel von __?
+Stadt von __?
+Land von __?
+schnellster Fahrer von __?
+schnellster Fahrer Team von __?
+erster Fahrer von __?
+Siegerteam von __?
+Vorveranstaltung von __?
+zweiter Fahrer von __?
+zweites Team von __?
+Team von __?
+dritter Fahrer von __?
+dritte Mannschaft von __?
+Entfernung (km) von __?
+Anzahl der erzielten Tore von __?
+schnellster Fahrer Land von __?
+Name von __?
+Meister von __?
+Zeit von __?
+Kombattant von __?
+Folge von __?
+ist Teil des militärischen Konflikts von __?
+Etat ($) von __?
+Kategorie von __?
+Verluste von __?
+Dauer (s) von __?
+Stärke von __?
+Befehlshaber von __?
+Enddatum von __?
+Eröffnungsfilm von __?
+Anmerkungen von __?
+Organisation von __?
+Motto von __?
+Status von __?
+regisseur von __?
+Veranstaltung von __?
+Gebiet von __?
+Kurs (Î¼) von __?
+Distanz Runden von __?
+Zugehörigkeit von __?
+erstes Fahrerland von __?
+ersterFührer von __?
+folgende Veranstaltung von __?
+Zweitfahrerland von __?
+zweiterFührer von __?
+Drittland des Fahrers von __?
+Strecke (km) von __?
+Todesfälle von __?
+Poltreiber von __?
+Pole-Fahrer-Team von __?
+Polfahrerland von __?
+Meister im Doppelmännchen von __?
+Champion im Einzel männlich von __?
+Bestätigte Fälle von __?
+Verknüpft eine Entität mit dem bevölkerten Ort, an dem sie sich befindet. von __?
+Art des Tennisbelags von __?
+Meister im Doppel weiblich von __?
+Meisterin im Einzel weiblich von __?
+Kausalitäten von __?
+Abschlussfilm von __?
+Meister im gemischten Doppel von __?
+erstePopularVote von __?
+zweitePopularVote von __?
+Verdachtsfälle von __?

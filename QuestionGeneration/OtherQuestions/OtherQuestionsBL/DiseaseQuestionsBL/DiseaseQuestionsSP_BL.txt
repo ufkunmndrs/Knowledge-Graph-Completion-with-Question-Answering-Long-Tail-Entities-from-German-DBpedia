@@ -1,0 +1,42 @@
+Komplikationen von __?
+medizinisches Fachgebiet von __?
+DiseasesDB von __?
+ICD9 von __?
+ORPHA von __?
+Synonym von __?
+medizinische Diagnose von __?
+Symptome von __?
+medizinische Ursache von __?
+Medikation von __?
+Behandlung von __?
+Differentialdiagnose von __?
+bild von __?
+GARDName von __?
+GARDNum von __?
+AO von __?
+alternativer Name von __?
+Klasse von __?
+NORD von __?
+Name von __?
+eMedizin-Fach von __?
+Thema eMedizin von __?
+MeSH-ID von __?
+Bestätigte Fälle von __?
+geneReviewsId von __?
+geneReviewsName von __?
+ICD10 von __?
+MedlinePlus von __?
+OMIM-ID von __?
+Todesfälle von __?
+ICDO von __?
+alias von __?
+CAS-Nummer von __?
+ChEBI von __?
+ChEMBL von __?
+Arzneimittelbank von __?
+FDA UNII-Code von __?
+KEGG von __?
+PubChem von __?
+ATC-Code von __?
+Verdachtsfälle von __?
+IUPAC-Name von __?

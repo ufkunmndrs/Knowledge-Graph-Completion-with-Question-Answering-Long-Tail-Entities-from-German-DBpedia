@@ -1,0 +1,8 @@
+Wo befindet sich __?
+Was ist die Art von __?
+Was ist das Land von __?
+Was ist die Provinz __?
+Was ist die Region von __?
+Was befindet sich im Bereich von __?
+Wie lautet die LCCN-ID von __?
+Wie lautet die IMDB-ID von __?

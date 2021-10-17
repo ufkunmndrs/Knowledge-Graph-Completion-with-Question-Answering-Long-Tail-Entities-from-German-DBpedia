@@ -1,0 +1,68 @@
+Sterbeort von __?
+Geburtsort von __?
+Klasse von __?
+Elternteil von __?
+Team von __?
+Clubmanager von __?
+Schlacht von __?
+bekannt für von __?
+Produkt von __?
+Weganfang von __?
+Militäreinheit von __?
+Startplatz von __?
+Typ von __?
+Todesursache von __?
+Standort von __?
+benannt nach von __?
+Betreiber von __?
+Eigentümer von __?
+bedeutendes Design von __?
+Garnison von __?
+Wegende von __?
+Gebiet von __?
+im Krieg eingesetzt von __?
+bedeutendes Projekt von __?
+Operierende Schienenfahrzeuge von __?
+Beschäftigung von __?
+Ruhestätte von __?
+Residenz von __?
+Industrie von __?
+Hauptsitz von __?
+Heimstadion von __?
+Hauptstadt von __?
+museum von __?
+Dienst von __?
+bedeutendes Gebäude von __?
+Ort der Bestattung von __?
+Adresse in Straße von __?
+Institution von __?
+Auszeichnung von __?
+Befehlshaber von __?
+schule von __?
+Ehrungen von __?
+Arbeitgeber von __?
+Insel von __?
+Verwandter von __?
+Campus von __?
+Baumeister von __?
+bild von __?
+Ratsbereich von __?
+Statthalterbereich von __?
+militärischer Zweig von __?
+bemerkenswerte Arbeit von __?
+Verknüpft eine Entität mit dem bevölkerten Ort, an dem sie sich befindet. von __?
+Mund Berg von __?
+Mundplatz von __?
+aufgenommen in von __?
+Stromart von __?
+Boden von __?
+Eigentümerorganisation von __?
+bemerkenswerter Kommandant von __?
+Designer von __?
+Tafel von __?
+zugehörige Band von __?
+assoziierter Musikkünstler von __?
+Wiederaufbau von __?
+Heimathafen von __?
+Einwohnerzahl von __?
+befindet sich im Bereich von __?

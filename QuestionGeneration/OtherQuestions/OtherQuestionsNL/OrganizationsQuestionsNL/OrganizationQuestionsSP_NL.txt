@@ -1,0 +1,204 @@
+Was ist der Standort von __?
+Wie viele Passagiere pro Tag hat __?
+Was ist das Schicksal von __?
+Was war der frühere Name von __?
+Was ist das Gründungsdatum von __?
+Was ist das Gründungsjahr von __?
+Wie viele Mitarbeiter hat __?
+Wie Standorte hat __?
+Wie viele Passagiere pro Jahr hat __?
+Was ist der Zweck von __?
+Wie hoch sind die Einnahmen von __?
+In welchem Land ist __?
+Durch wen wurde __ gegründet?
+Was ist das Genre von __?
+Wo ist der Haupsitz von __?
+In welcher Industrie ist __ tätig?
+Wer ist Schlüsselperson bei __?
+Wessen Betreiber ist __?
+Wessen Eigentümer ist __?
+Wessen Besitzerfirma ist __?
+Wessen Muttergesellschaft ist __?
+Wessen Vorgänger ist __?
+Was ist das Produkt von __?
+Was ist der Dienst, den __ anbietet?
+Was ist der Typ von __?
+Was ist das Ziel von __?
+Welche Fahrzeugtypen hat __ in der Flotte?
+Wie viele Linien hat __?
+Was ist der ursprüngliche Name von __?
+Wessen Nachfolger ist __?
+Wie hoch sind die Aktiva von __ in US-Dollar?
+Wie hoch ist das Eigenkapital von __ in US-Dollar?
+Von was ist __ ein Teil?
+Wie viele Büros hat __?
+Was ist der Kraftstofftyp von __?
+In welchem Verkehrsknoten ist __ ein wichtiger Punkt?
+In welcher Allianz ist __?
+Wie viele Rechtsanwälte hat __?
+Wie hoch sind die Nettoeinnahmen von __?
+Wie hoch sind die Betriebseinnahmen von __?
+Was ist der aktuelle Status von __?
+Wie viele Fahrzeuge hat __?
+Was ist die Streckenlänge von __?
+Was ist die Rechtsform von __?
+Was ist die Art der Elektrifizierung von __?
+In welchem Jahr wurde __ geschlossen?
+Wie viele Stationen hat __?
+An welchem Datum wurde __ eröffnet?
+In welchem Jahr wurde __ eröffnet?
+Was ist die Beschäftigung von __?
+Was ist die Durschnittsgeschwindigkeit von __?
+Was ist die Höchstgeschwindigkeit von __?
+Was ist die Spurweite der Eisenbahn von __?
+Wie hoch ist die Voltzahl der Elektrifizierung von __?
+Der Gründer von was ist __?
+Was ist das Geburtsdatum von __?
+Was ist das Geburtsjahr von __?
+Wer ist der Ehepartner von __?
+Was ist der Slogan von __?
+Wann war der Sendebeginn von __?
+Was ist das Motto von __?
+Was ist die Sprache von __?
+Was ist der Handelsname von __?
+Was produziert __?
+Was ist das Format von __?
+Wer ist der Chefredakteur von __?
+Wie hoch ist das Etat von __?
+Wessen Führer ist __?
+Was ist die Zuständigkeit von __?
+Was ist die Adresse von __?
+In welcher Stadt ist __?
+Wo ist der Gründungsort von __?
+Wie hoch ist die Zahl der Studierenden bei __?
+In welchem Staat ist __?
+Was ist die offizielle Schulfarbe von __?
+In welcher Provinz ist __?
+Wie hoch ist die Anzahl der Freiwiliigen bei __?
+Was ist das Startdatum von __?
+Wie hoch ist die Einwohnerzahl von __?
+Was ist die Postleitzahl von __?
+In welchem Bezirk ist __?
+Wer ist der Geschäftsführer von __?
+Wessen Herausgeber ist __?
+Wer ist der Schriftsteller von __?
+Wie hoch ist die Sitzplatzkapazität von __?
+Was ist das Enddatum von __?
+Was ist das Empfangsgebiet von __?
+Für was ist __ bekannt?
+Was ist die Nationalität von __?
+Was ist der alternative Name von __?
+Wer ist der Architekt von __?
+Was ist die Landkarte von __?
+Mit welcher wissenschaftlichen Disziplin beschäftigt sich __?
+Was ist die Institution von __?
+Wessen Doktorvater ist __?
+Was ist der Status von __?
+Was ist die Laufzeit von __?
+Wer ist der Autor von __?
+Wer ist der Produzent von __?
+Die Produktiosnfirma welchen Produktes ist __?
+Was ist die Laufzeit von __?
+Wo ist der Geburtsort von __?
+Was ist die Partei von __?
+Was ist das Wahldatum des Vorsitzenden von __?
+Was ist die politische Partei in der Legislative von __?
+Was ist der Name in der Legislaturperiode von __?
+Was ist die politische Partei des Vorsitzenden von __?
+Was ist der Geburtsname von __?
+Was entwickelt __?
+Was ist das Betriebssystem von __?
+Was ist die Lizenz von __?
+Was ist das Bildformat von __?
+Wie groß ist die Fläche von __?
+Was ist das Baujahr von __?
+Was ist die Bildung von __?
+Was ist der Personalbestand von __?
+Wessen Befehlshaber ist __?
+Was ist der Digitalkanal von __?
+Wessen Arbeitgeber ist __?
+Was ist die Abkürzung von __?
+In welcher Organisation hat __ eine Mitgliedschaft?
+Wer ist das Kind von __?
+Was ist der Heimatort von __?
+Was ist die Kommandostruktur von __?
+Was ist die Garnison von __?
+Was ist der ISO-Ländercode von __?
+Was ist der Sterbeort von __?
+Was ist das Sterbedatum von __?
+Was ist das Sterbejahr von __?
+Was ist das Sterbejahr von __?
+Was ist die Ruhestätte von __?
+Was ist der Titel von __?
+Was ist die Diözese von __?
+Wer ist der Herausgeber von __?
+Was ist das Kompressionsverhältniss von __?
+Was ist die Ventilsteuerung von __?
+Was ist die Konfiguration von __?
+Was ist die Ausgangsleistung von __?
+Der Hersteller welchen Produktes ist __?
+Welches Kraftstoffsystem nutzt __?
+Was ist das Kühlsystem von __?
+Was ist die Ausgangsleistung von __?
+Was montiert __?
+Was sind die Kosten von __?
+Was mietet __?
+Die Vertriebsgesellschaft von was ist __?
+Die verteilende Marke welchen Produktes ist __?
+Was ist die Einteilung von __?
+Was ist der Zustand von __?
+Welche Region bedient __?
+Wessen Tochtergesellschaft ist __?
+Der Zielflughafen welchen Weges ist __?
+Was ist der ICAO-Code von __?
+Was ist das Jahr des ausgewiesenen Umsatzes von __?
+Wann ist der Einsendeschluss von __?
+Was ist das Auflösungsdatum von __?
+Was ist der IATA-Code von __?
+Was ist der Hubflughafen von __?
+Wann ist der Schulungstermin von __?
+In welcher Stadt hat __ seinen Standort?
+Was ist die Meldemarke von __?
+Wie hoch ist das verwaltete Vermögen von __?
+Welche Funktion hat der Führer bei __?
+Wie viele Auflagen von __ gibt es?
+Was ist das Geburtsjahr von __?
+Was ist die LCCN-ID von __?
+Was ist das Gründungsjahr von __?
+Die Mutterorganisation welcher Organisation ist __?
+Was ist die Zugehörigkeit von __?
+Was ist die Entfernung von __ zum Charing Cross?
+Was ist die Gitter Referenz von __?
+In welchem Jahr endeten die aktiven Jahre von __?
+In welchem Jahr haben die aktiven Jahre von __ begonnen?
+Was ist der Alias von __?
+Was ist das Herkunftsland von __?
+Was ist die VIAF-ID von __?
+Was ist die Alma Mater von __?
+Wer spielt bei __ mit?
+Was ist die Laufzeit von __?
+Was ist das Abrissdatum von __?
+Was ist der letzte Wahltermin von __?
+Wann war der Baubeginn von __?
+Was ist die IMDB-ID von __?
+Was ist die neueste Release-Version von __?
+Was ist das Veröffentlichungsdatum von __?
+Welche Computerplattform nutzt __?
+Was ist die NRHP-Referenznummer von __?
+Was ist der architektonische Stil von __?
+Was ist das Nettovermögen von __?
+Was ist das Rufzeichen von __?
+Was ist die Kinderorganisation von __?
+Was ist das Enddatum von __?
+Für was wird __ derzeit verwendet?
+Was ist der Kolbenhub von __?
+Was ist die Drehmomentabgabe von __?
+Was ist die Verdrängung von __?
+In welchem Jahr endete die Produktion von __?
+In welchem Jahr begann die Produktion von __?
+Was ist die Blocklegierung von __?
+Was ist die Kopflegierung von __?
+Wie groß ist die Zylinderbohrung von __?
+Wie groß ist der Hubraum von __?
+Wie groß ist der Kolbenhub von __?
+Was ist die Drehmomentabgabe von __?

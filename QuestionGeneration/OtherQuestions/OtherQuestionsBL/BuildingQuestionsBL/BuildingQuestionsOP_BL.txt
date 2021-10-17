@@ -1,0 +1,156 @@
+Geburtsort von __?
+Standort von __?
+Schlacht von __?
+Stadt von __?
+Hauptsitz von __?
+Heimstadion von __?
+bekannt für von __?
+museum von __?
+Residenz von __?
+Ruhestätte von __?
+Stadion von __?
+Institution von __?
+Arbeitgeber von __?
+bedeutendes Gebäude von __?
+Sterbeort von __?
+bedeutender Schrein von __?
+Auszeichnung von __?
+Beschäftigung von __?
+Diözese von __?
+Ausbildung von __?
+Ort der Bestattung von __?
+Betreiber von __?
+Eigentümer von __?
+Produktionsfirma von __?
+Garnison von __?
+Wegende von __?
+Weganfang von __?
+Rennpferd von __?
+bedeutendes Projekt von __?
+Produkt von __?
+Wegabzweigung von __?
+Hauptstadt von __?
+wichtiger Verkehrsknotenpunkt von __?
+Herausgeber von __?
+Strafe von __?
+Empfangsgebiet von __?
+Bildung von __?
+benannt nach von __?
+Campus von __?
+Gymnasium von __?
+bild von __?
+Ziel von __?
+Religion von __?
+Zuständigkeit von __?
+wissenschaftliche Disziplin von __?
+Muttergesellschaft von __?
+Operierende Schienenfahrzeuge von __?
+Flussmündung von __?
+Militäreinheit von __?
+Entwickler von __?
+Mieter von __?
+Baumeister von __?
+Team von __?
+Ehrungen von __?
+Typ von __?
+Kurator von __?
+gegründet von von __?
+Vorgänger von __?
+Montage von __?
+Verwaltungsgremium von __?
+bedeutendes Design von __?
+angebundene Eisenbahnlinie von __?
+Sendergruppe von __?
+Firma von __?
+Sendergruppe von __?
+Clubmanager von __?
+Farbe von __?
+Produzent von __?
+zusammengeschlossen von __?
+Moderator von __?
+Adresse in Straße von __?
+Architekt von __?
+Leiche entdeckt von __?
+Schlüsselperson von __?
+Whalbezirk von __?
+nächstgelegene Stadt von __?
+Nachfolger von __?
+Feld von __?
+Heimatort von __?
+regisseur von __?
+schriftsteller von __?
+Züchter von __?
+Bewegung von __?
+Beziehung von __?
+Befehlshaber von __?
+Dienst von __?
+Ausschuss in der Legislative von __?
+Todesursache von __?
+Region von __?
+schule von __?
+Startplatz von __?
+früheren Arbeiten von __?
+College von __?
+Kind von __?
+Politiker von __?
+Leutnant von __?
+Person von __?
+Staatsform von __?
+Verwandter von __?
+Beruf von __?
+Besitzerfirma von __?
+Patron von __?
+Hersteller von __?
+autor von __?
+ist ein Teil von von __?
+Vorveranstaltung von __?
+nächste Veranstaltung von __?
+Gründer von __?
+Ort des Wegendes von __?
+beeinflusst durch von __?
+Doktorvater von __?
+gewartet von von __?
+gesprochen in von __?
+Insel von __?
+Universität von __?
+Boden von __?
+Plattenlabel von __?
+aufgenommen in von __?
+Tafel von __?
+Premierenplatz von __?
+Unterteilung von __?
+Tochtergesellschaft von __?
+befindet sich im Bereich von __?
+Schilderer von __?
+bemerkenswerte Arbeit von __?
+seliggesprochener Ort von __?
+Verknüpft eine Entität mit dem bevölkerten Ort, an dem sie sich befindet. von __?
+Zugehörigkeit von __?
+Alma Mater von __?
+Verteiler von __?
+Mund Berg von __?
+Mundplatz von __?
+zugehörige Band von __?
+assoziierter Musikkünstler von __?
+Brüche von __?
+Heimathafen von __?
+in Rechnung gestellt von __?
+Cover-Künstler von __?
+Hauptorgel von __?
+architektonischer Stil von __?
+Eigentümerorganisation von __?
+Sachbuch von __?
+Kinderorganisation von __?
+Mutterorganisation von __?
+ehemaliges Team von __?
+kanonisierter Ort von __?
+Einteilung von __?
+akademischer Berater von __?
+Zielflughafen von __?
+militärischer Zweig von __?
+Wiederaufbau von __?
+Region bedient region von __?
+verehrt in von __?
+Kreuze von __?
+Schöpfer des Gerichts von __?
+Designer von __?

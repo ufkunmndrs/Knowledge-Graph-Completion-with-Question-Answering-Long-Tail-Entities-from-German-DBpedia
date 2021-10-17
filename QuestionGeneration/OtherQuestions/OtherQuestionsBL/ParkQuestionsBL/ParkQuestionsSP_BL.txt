@@ -1,0 +1,8 @@
+Standort von __?
+Typ von __?
+Land von __?
+Provinz von __?
+Region von __?
+befindet sich im Bereich von __?
+LCCN-ID von __?
+IMDB-ID von __?

@@ -1,0 +1,227 @@
+Standort von __?
+Montage von __?
+autor von __?
+Sendergruppe von __?
+Firma von __?
+Komponist von __?
+Urheber von __?
+Entwickler von __?
+ist ein Teil von von __?
+bekannt für von __?
+Hersteller von __?
+Beschäftigung von __?
+Betreiber von __?
+Eigentümer von __?
+Besitzerfirma von __?
+Muttergesellschaft von __?
+Vorgänger von __?
+Moderator von __?
+Produzent von __?
+Produkt von __?
+Produktionsfirma von __?
+Herausgeber von __?
+Nachfolger von __?
+Team von __?
+Typ von __?
+Baumeister von __?
+Arbeitgeber von __?
+Kanal von __?
+Institution von __?
+Projektteilnehmer von __?
+Architekt von __?
+Motor von __?
+gegründet von von __?
+Sendergruppe von __?
+angebundene Eisenbahnlinie von __?
+wichtiger Verkehrsknotenpunkt von __?
+Operierende Schienenfahrzeuge von __?
+Fahrzeugtypen der Flotte von __?
+Klasse von __?
+CPU von __?
+Ausführender Produzent von __?
+Siegerteam von __?
+gewartet von von __?
+zweites Team von __?
+dritte Mannschaft von __?
+Agentur von __?
+Gründer von __?
+Verwaltungsgremium von __?
+Zutat von __?
+Schlüsselperson von __?
+komponist von __?
+bedeutendes Gebäude von __?
+Befehlshaber von __?
+Land von __?
+Ingenieur von __?
+zusammengeschlossen von __?
+Förderung von __?
+Ehepartner von __?
+Bearbeitung von __?
+Herausgeber von __?
+Industrie von __?
+Politiker von __?
+Religion von __?
+Züchter von __?
+Allianz von __?
+Album von __?
+Auszeichnung von __?
+Kette von __?
+Hauptsitz von __?
+Ideologie von __?
+Mieter von __?
+Ziel von __?
+bedeutendes Projekt von __?
+regisseur von __?
+Serie von __?
+Kommandostruktur von __?
+Liga von __?
+Partei von __?
+Position von __?
+Saison von __?
+Zuständigkeit von __?
+Bandmitglied von __?
+Bildung von __?
+ehemaliges Bandmitglied von __?
+Genre von __?
+Person von __?
+nachfolgende Arbeiten von __?
+Übersetzer von __?
+Format von __?
+Sterbeort von __?
+Geburtsort von __?
+Instrument von __?
+Wegende von __?
+Betriebssystem von __?
+Dienst von __?
+Vorsitzender von __?
+Verwandter von __?
+stilistische Herkunft von __?
+Präsident von __?
+Management von __?
+Behörde von __?
+erster Fahrer von __?
+Illustrator von __?
+bild von __?
+Doktorand von __?
+schriftsteller von __?
+Führer von __?
+Stimme von __?
+Automobilplattform von __?
+schnellster Fahrer Team von __?
+Lizenz von __?
+Kraftstoffsystem von __?
+Bezirk von __?
+Art der Elektrifizierung von __?
+Disziplin von __?
+verbunden von __?
+Kraftstofftyp von __?
+basierend auf von __?
+Empfangsgebiet von __?
+Musik von von __?
+Beruf von __?
+Elternteil von __?
+politische Partei in der Legislative von __?
+Staatsform von __?
+Nationalität von __?
+Herkunft von __?
+Residenz von __?
+Gebiet von __?
+Tunnel benutzende Eisenbahnlinie von __?
+ehemalige Sendergruppe von __?
+Startplatz von __?
+Militäreinheit von __?
+Medientyp von __?
+Clubmanager von __?
+wissenschaftliche Disziplin von __?
+Stadt von __?
+Verein von __?
+Sprache von __?
+literarische Gattung von __?
+früheren Arbeiten von __?
+Interpret von __?
+Geschäftsführer von __?
+Kinematografie von __?
+Campus von __?
+Beziehung von __?
+Rechtsform von __?
+Farbe von __?
+Gymnasium von __?
+Ehrungen von __?
+Garnison von __?
+Person , die zuerst einen Berg bestiegen hat von __?
+Ausbildung von __?
+Vizepräsident von __?
+Variante oder Variation von __?
+Vorsitzender von __?
+Erzähler von __?
+Fabrik von __?
+Weganfang von __?
+Projektkoordinator von __?
+Schlacht von __?
+Hubschrauber von __?
+Stadion von __?
+Landkarte von __?
+beeinflusst von __?
+Auswahl von __?
+Designerfirma von __?
+Designer von __?
+Verteiler von __?
+Einteilung von __?
+Eröffnungsthema von __?
+Plattenlabel von __?
+Region bedient region von __?
+Tochtergesellschaft von __?
+Spielkünstler von __?
+Sachbuch von __?
+Eigentümerorganisation von __?
+Mutterorganisation von __?
+Tafel von __?
+Kreuze von __?
+Vertriebsgesellschaft von __?
+Etikett verteilen von __?
+Stromart von __?
+Spiel-Engine von __?
+bemerkenswerte Arbeit von __?
+Cover-Künstler von __?
+Zugehörigkeit von __?
+Hauptorgel von __?
+verehrt in von __?
+Kinderorganisation von __?
+Computerplattform von __?
+Premierenplatz von __?
+Schöpfer des Gerichts von __?
+Heimathafen von __?
+Drehkreuz Flughafen von __?
+militärischer Zweig von __?
+aufgenommen in von __?
+Zielflughafen von __?
+Alma Mater von __?
+zugehörige Band von __?
+assoziierter Musikkünstler von __?
+Mund Berg von __?
+Mundplatz von __?
+Sportverband von __?
+zugehöriges Verkehrsmittel von __?
+Sprachregulierungsbehörde oder Akademie von __?
+Wiederaufbau von __?
+Motortyp von __?
+mit von __?
+Schulbehörde von __?
+Haus von __?
+Boden von __?
+Pole-Fahrer-Team von __?
+Land verwenden von __?
+Herkunftsland von __?
+Gemeinde von __?
+binomiale Autorität von __?
+Programmformat von __?
+Schwesterstation von __?
+Flugzeugkämpfer von __?
+Körperstil von __?
+Kreativdirektor von __?
+Konfession von __?
+ehemaliges Team von __?
+Verknüpft eine Entität mit dem bevölkerten Ort, an dem sie sich befindet. von __?
+Flugzeugaufklärung von __?
+folgende Veranstaltung von __?
+Schwester Zeitung von __?

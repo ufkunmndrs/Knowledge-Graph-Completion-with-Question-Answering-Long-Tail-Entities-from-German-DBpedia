@@ -1,0 +1,52 @@
+Wo befindet sich __?
+Was ist das Erwerbsdatum von __?
+Wie groß ist der Schiffstiefgang (μ) von __?
+Was ist das Fertigstellungsdatum von __?
+Was kostet ($) von __?
+Was ist die Höhe (μ) von __?
+Was ist die Länge (μ) von __?
+Wie groß ist die Verschiebung (g) von __?
+Wie ist der Status von __?
+Wie hoch ist die Höchstgeschwindigkeit (kmh) von __?
+Was ist die Klasse von __?
+Was ist das Land von __?
+Was ist der Operator von __?
+Was ist der Besitzer von __?
+Was ist die Art von __?
+Was ist der Erbauer von __?
+Wie hoch (mm) ist __?
+Wie lang (mm) ist __?
+Wie lautet das Motto von __?
+Welche Kapazität hat __?
+Was ist das Gewicht (g) von __?
+Welches Baujahr hat __?
+Was ist der Hersteller von __?
+Was wiegt (kg) von __?
+Aus welcher Zahl besteht __?
+Was ist die Breite (μ) von __?
+Was ist die Breite (mm) von __?
+Was ist das Eröffnungsdatum von __?
+Wie groß ist die Sitzplatzkapazität von __?
+Was ist der Mieter von __?
+Was ist das Aufnahmedatum von __?
+Was ist das Stilllegungsdatum von __?
+Was ist das Inbetriebnahmedatum von __?
+Was ist die Festlegung von __?
+Was ist das Gebäudeenddatum von __?
+Wie groß ist der Schiffsstrahl (Î¼) von __?
+Was ist das Schiff von __?
+Was ist die Leistungsart von __?
+Was ist der Heimathafen von __?
+Was ist das Taufdatum von __?
+Was ist die Jungfernfahrt von __?
+Was ist das Bestelldatum von __?
+Was ist das Enddatum des aktiven Jahres von __?
+Was ist das Startdatum des aktiven Jahres von __?
+Was ist das Wiederinbetriebnahmedatum von __?
+Was ist das aktive Jahresendjahr von __?
+Was ist das Startjahr des aktiven Jahres von __?
+Wie groß ist die Zylinderzahl von __?
+Was ist der Motortyp von __?
+Was ist das Baubeginndatum von __?
+Was ist das Abschlussdatum von __?
+Wie lautet die IMDB-ID von __?
