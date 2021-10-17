@@ -1,0 +1,26 @@
+EXACT MATCH results for Object Position with Translation-Based questions with a threshold of 0.2 for answer scores - (?, r, e): 
+
+Sperber (Schiff, 1938): 33.8
+Der Raubfisch: 32.9
+Brand von Glarus: 31.7
+Eidgenössische Bank: 15.2
+Kettenschifffahrt auf dem Main: 13.2
+Paul Parey Zeitschriftenverlag: 12.7
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 11.5
+Hamburger Tageblatt: 9.4
+Staatliche Zeichenakademie Hanau: 8.5
+Weinbergkirche (Dresden): 7.7
+Wurminfektionen der Katze: 7.5
+Königseiche: 6.3
+Berliner Volks-Zeitung: 6.2
+Jüdische Gemeinde Esens: 5.8
+Hans Schnitzler: 5.1
+Fadenwurminfektionen des Hundes: 4.5
+Haus Fürsteneck: 4.5
+Bürgerpark und Stadtwald: 3.2
+Graf Öderland: 2.8
+Erna Wazinski: 1.7
+Schweiz ohne Armee? Ein Palaver: 1.4
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.8
+
+Average EXACT MATCH score: 10.3

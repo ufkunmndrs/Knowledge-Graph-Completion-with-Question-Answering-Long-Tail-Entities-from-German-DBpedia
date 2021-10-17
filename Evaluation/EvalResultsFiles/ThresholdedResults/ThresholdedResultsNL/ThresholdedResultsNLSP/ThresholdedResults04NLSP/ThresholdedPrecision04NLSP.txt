@@ -1,0 +1,26 @@
+PRECISION results for Subject Position with Human-Generated questions with a threshold of 0.4 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 82.4
+Staatliche Zeichenakademie Hanau: 65.5
+Sperber (Schiff, 1938): 64.3
+Berliner Volks-Zeitung: 57.9
+Paul Parey Zeitschriftenverlag: 57.9
+Eidgenössische Bank: 56.8
+Hamburger Tageblatt: 56.2
+Haus Fürsteneck: 55.6
+Graf Öderland: 52.6
+Brand von Glarus: 50.0
+Erna Wazinski: 47.8
+Kunstgewerbe- und Handwerkerschule Magdeburg: 46.5
+Hans Schnitzler: 46.4
+Weinbergkirche (Dresden): 40.5
+Wurminfektionen der Katze: 40.0
+Schweiz ohne Armee? Ein Palaver: 39.1
+Jüdische Gemeinde Esens: 35.1
+Königseiche: 33.3
+Fadenwurminfektionen des Hundes: 33.3
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 30.8
+Kettenschifffahrt auf dem Main: 25.0
+Bürgerpark und Stadtwald: 0.0
+
+Average PRECISION score: 46.2

@@ -1,0 +1,26 @@
+F1 results for Subject Position with Human-Generated questions with a threshold of 0.2 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 0.72
+Sperber (Schiff, 1938): 0.58
+Haus Fürsteneck: 0.54
+Graf Öderland: 0.53
+Hamburger Tageblatt: 0.46
+Eidgenössische Bank: 0.45
+Brand von Glarus: 0.43
+Berliner Volks-Zeitung: 0.43
+Schweiz ohne Armee? Ein Palaver: 0.38
+Paul Parey Zeitschriftenverlag: 0.38
+Weinbergkirche (Dresden): 0.38
+Erna Wazinski: 0.37
+Wurminfektionen der Katze: 0.34
+Fadenwurminfektionen des Hundes: 0.33
+Hans Schnitzler: 0.32
+Jüdische Gemeinde Esens: 0.32
+Staatliche Zeichenakademie Hanau: 0.29
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 0.29
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.2
+Kettenschifffahrt auf dem Main: 0.2
+Königseiche: 0.2
+Bürgerpark und Stadtwald: 0.0
+
+Average F1 score: 0.37

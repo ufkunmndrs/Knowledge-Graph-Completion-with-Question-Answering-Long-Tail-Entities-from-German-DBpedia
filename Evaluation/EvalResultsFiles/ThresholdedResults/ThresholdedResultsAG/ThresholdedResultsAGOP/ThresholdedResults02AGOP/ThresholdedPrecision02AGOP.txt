@@ -1,0 +1,26 @@
+PRECISION results for Object Position with Translation-Based questions with a threshold of 0.2 for answer scores - (?, r, e): 
+
+Der Raubfisch: 28.6
+Hans Schnitzler: 22.2
+Erna Wazinski: 22.2
+Brand von Glarus: 20.0
+Wurminfektionen der Katze: 20.0
+Graf Öderland: 18.2
+Bürgerpark und Stadtwald: 16.7
+Berliner Volks-Zeitung: 15.0
+Königseiche: 14.3
+Fadenwurminfektionen des Hundes: 14.3
+Eidgenössische Bank: 10.5
+Hamburger Tageblatt: 9.1
+Staatliche Zeichenakademie Hanau: 8.7
+Weinbergkirche (Dresden): 8.3
+Schweiz ohne Armee? Ein Palaver: 7.7
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 5.6
+Jüdische Gemeinde Esens: 5.3
+Kunstgewerbe- und Handwerkerschule Magdeburg: 5.3
+Paul Parey Zeitschriftenverlag: 4.5
+Haus Fürsteneck: 4.3
+Kettenschifffahrt auf dem Main: 0.0
+Sperber (Schiff, 1938): 0.0
+
+Average PRECISION score: 11.9

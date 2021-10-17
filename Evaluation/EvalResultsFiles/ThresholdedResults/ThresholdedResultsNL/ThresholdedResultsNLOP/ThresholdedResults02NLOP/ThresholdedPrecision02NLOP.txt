@@ -1,0 +1,26 @@
+PRECISION results for Object Position with Human-Generated questions with a threshold of 0.2 for answer scores - (?, r, e): 
+
+Der Raubfisch: 75.0
+Kettenschifffahrt auf dem Main: 71.4
+Schweiz ohne Armee? Ein Palaver: 69.2
+Graf Öderland: 63.6
+Bürgerpark und Stadtwald: 58.3
+Hans Schnitzler: 55.6
+Sperber (Schiff, 1938): 50.0
+Hamburger Tageblatt: 50.0
+Haus Fürsteneck: 47.8
+Erna Wazinski: 44.4
+Wurminfektionen der Katze: 40.0
+Königseiche: 37.5
+Weinbergkirche (Dresden): 33.3
+Berliner Volks-Zeitung: 30.0
+Fadenwurminfektionen des Hundes: 28.6
+Staatliche Zeichenakademie Hanau: 28.6
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 27.8
+Eidgenössische Bank: 15.8
+Kunstgewerbe- und Handwerkerschule Magdeburg: 10.5
+Paul Parey Zeitschriftenverlag: 8.7
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+
+Average PRECISION score: 38.5

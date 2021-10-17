@@ -1,0 +1,26 @@
+F1 results for Subject Position with Translation-Based questions with a threshold of 0.2 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 0.71
+Sperber (Schiff, 1938): 0.5
+Eidgenössische Bank: 0.48
+Graf Öderland: 0.42
+Haus Fürsteneck: 0.41
+Weinbergkirche (Dresden): 0.34
+Fadenwurminfektionen des Hundes: 0.33
+Paul Parey Zeitschriftenverlag: 0.32
+Hamburger Tageblatt: 0.31
+Berliner Volks-Zeitung: 0.28
+Jüdische Gemeinde Esens: 0.22
+Schweiz ohne Armee? Ein Palaver: 0.21
+Hans Schnitzler: 0.2
+Bürgerpark und Stadtwald: 0.17
+Erna Wazinski: 0.17
+Wurminfektionen der Katze: 0.16
+Staatliche Zeichenakademie Hanau: 0.15
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 0.15
+Brand von Glarus: 0.14
+Kettenschifffahrt auf dem Main: 0.13
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.1
+Königseiche: 0.0
+
+Average F1 score: 0.27

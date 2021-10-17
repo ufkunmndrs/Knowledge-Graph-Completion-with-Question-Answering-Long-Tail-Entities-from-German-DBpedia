@@ -1,0 +1,26 @@
+PRECISION results for Object Position with Baseline questions with a threshold of 0.2 for answer scores - (?, r, e): 
+
+Der Raubfisch: 60.0
+Bürgerpark und Stadtwald: 41.7
+Königseiche: 25.0
+Hans Schnitzler: 25.0
+Erna Wazinski: 22.2
+Berliner Volks-Zeitung: 20.0
+Wurminfektionen der Katze: 20.0
+Haus Fürsteneck: 20.0
+Schweiz ohne Armee? Ein Palaver: 15.4
+Hamburger Tageblatt: 14.3
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 13.3
+Staatliche Zeichenakademie Hanau: 13.3
+Weinbergkirche (Dresden): 12.5
+Graf Öderland: 9.1
+Paul Parey Zeitschriftenverlag: 8.3
+Eidgenössische Bank: 7.7
+Kunstgewerbe- und Handwerkerschule Magdeburg: 5.3
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Sperber (Schiff, 1938): 0.0
+
+Average PRECISION score: 15.1

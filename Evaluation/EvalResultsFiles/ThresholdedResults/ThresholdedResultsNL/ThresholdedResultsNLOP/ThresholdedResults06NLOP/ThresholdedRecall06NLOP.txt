@@ -1,0 +1,26 @@
+RECALL results for Object Position with Human-Generated questions with a threshold of 0.6 for answer scores - (?, r, e): 
+
+Der Raubfisch: 71.4
+Graf Öderland: 70.0
+Schweiz ohne Armee? Ein Palaver: 64.3
+Haus Fürsteneck: 52.6
+Weinbergkirche (Dresden): 50.0
+Bürgerpark und Stadtwald: 46.7
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 38.5
+Hans Schnitzler: 35.0
+Eidgenössische Bank: 33.3
+Fadenwurminfektionen des Hundes: 33.3
+Sperber (Schiff, 1938): 33.3
+Wurminfektionen der Katze: 33.3
+Erna Wazinski: 30.0
+Kettenschifffahrt auf dem Main: 22.7
+Hamburger Tageblatt: 20.0
+Königseiche: 12.5
+Paul Parey Zeitschriftenverlag: 9.5
+Berliner Volks-Zeitung: 7.4
+Staatliche Zeichenakademie Hanau: 6.8
+Kunstgewerbe- und Handwerkerschule Magdeburg: 2.5
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+
+Average RECALL score: 30.6

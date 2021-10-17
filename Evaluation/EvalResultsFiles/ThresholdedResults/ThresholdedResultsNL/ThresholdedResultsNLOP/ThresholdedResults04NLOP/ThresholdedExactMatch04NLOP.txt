@@ -1,0 +1,26 @@
+EXACT MATCH results for Object Position with Human-Generated questions with a threshold of 0.4 for answer scores - (?, r, e): 
+
+Sperber (Schiff, 1938): 61.8
+Brand von Glarus: 48.1
+Der Raubfisch: 45.6
+Eidgenössische Bank: 35.7
+Paul Parey Zeitschriftenverlag: 35.4
+Königseiche: 31.7
+Kettenschifffahrt auf dem Main: 29.4
+Hans Schnitzler: 28.6
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 26.9
+Weinbergkirche (Dresden): 26.5
+Haus Fürsteneck: 25.8
+Wurminfektionen der Katze: 23.9
+Staatliche Zeichenakademie Hanau: 23.8
+Erna Wazinski: 23.4
+Hamburger Tageblatt: 23.4
+Jüdische Gemeinde Esens: 21.0
+Schweiz ohne Armee? Ein Palaver: 18.3
+Fadenwurminfektionen des Hundes: 17.9
+Bürgerpark und Stadtwald: 14.3
+Berliner Volks-Zeitung: 14.1
+Graf Öderland: 11.3
+Kunstgewerbe- und Handwerkerschule Magdeburg: 3.9
+
+Average EXACT MATCH score: 26.9

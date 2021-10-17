@@ -1,0 +1,26 @@
+RECALL results for Subject Position with Human-Generated questions with a threshold of 0.8 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 88.9
+Sperber (Schiff, 1938): 81.2
+Graf Öderland: 69.2
+Haus Fürsteneck: 63.2
+Eidgenössische Bank: 60.9
+Paul Parey Zeitschriftenverlag: 55.6
+Schweiz ohne Armee? Ein Palaver: 53.3
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 50.0
+Königseiche: 50.0
+Jüdische Gemeinde Esens: 50.0
+Kettenschifffahrt auf dem Main: 50.0
+Weinbergkirche (Dresden): 47.1
+Berliner Volks-Zeitung: 38.5
+Erna Wazinski: 37.8
+Brand von Glarus: 33.3
+Wurminfektionen der Katze: 33.3
+Hamburger Tageblatt: 33.3
+Hans Schnitzler: 28.6
+Staatliche Zeichenakademie Hanau: 21.1
+Kunstgewerbe- und Handwerkerschule Magdeburg: 19.2
+Bürgerpark und Stadtwald: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+
+Average RECALL score: 43.8

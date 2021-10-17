@@ -1,0 +1,26 @@
+PRECISION results for Subject Position with Baseline questions  with a threshold of 0.8 for answer scores - (e, r, ?): 
+
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 100.0
+Eidgenössische Bank: 100.0
+Der Raubfisch: 100.0
+Hamburger Tageblatt: 100.0
+Haus Fürsteneck: 72.7
+Paul Parey Zeitschriftenverlag: 71.4
+Hans Schnitzler: 69.2
+Weinbergkirche (Dresden): 66.7
+Staatliche Zeichenakademie Hanau: 60.0
+Schweiz ohne Armee? Ein Palaver: 60.0
+Jüdische Gemeinde Esens: 50.0
+Sperber (Schiff, 1938): 50.0
+Graf Öderland: 50.0
+Kunstgewerbe- und Handwerkerschule Magdeburg: 44.4
+Berliner Volks-Zeitung: 33.3
+Erna Wazinski: 15.8
+Bürgerpark und Stadtwald: 0.0
+Königseiche: 0.0
+Brand von Glarus: 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Wurminfektionen der Katze: 0.0
+
+Average PRECISION score: 47.4

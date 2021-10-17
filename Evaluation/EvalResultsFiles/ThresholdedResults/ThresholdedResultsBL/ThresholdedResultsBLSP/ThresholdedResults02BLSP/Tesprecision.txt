@@ -1,0 +1,26 @@
+PRECISION results for Subject Position with Baseline questions  with a threshold of 0.2 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 0.71
+Sperber (Schiff, 1938): 0.61
+Eidgenössische Bank: 0.6
+Hamburger Tageblatt: 0.58
+Paul Parey Zeitschriftenverlag: 0.52
+Haus Fürsteneck: 0.49
+Graf Öderland: 0.47
+Weinbergkirche (Dresden): 0.45
+Staatliche Zeichenakademie Hanau: 0.43
+Hans Schnitzler: 0.37
+Berliner Volks-Zeitung: 0.26
+Schweiz ohne Armee? Ein Palaver: 0.22
+Wurminfektionen der Katze: 0.2
+Jüdische Gemeinde Esens: 0.2
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.19
+Brand von Glarus: 0.18
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 0.17
+Erna Wazinski: 0.15
+Kettenschifffahrt auf dem Main: 0.1
+Königseiche: 0.0
+Bürgerpark und Stadtwald: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+
+Average PRECISION score: 0.31

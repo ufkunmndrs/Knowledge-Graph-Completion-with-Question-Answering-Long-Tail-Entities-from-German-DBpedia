@@ -1,0 +1,26 @@
+RECALL results for Object Position with Baseline questions with a threshold of 0.4 for answer scores - (?, r, e): 
+
+Der Raubfisch: 60.0
+Haus Fürsteneck: 36.4
+Bürgerpark und Stadtwald: 27.8
+Wurminfektionen der Katze: 25.0
+Graf Öderland: 25.0
+Hans Schnitzler: 23.1
+Erna Wazinski: 22.2
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 20.0
+Schweiz ohne Armee? Ein Palaver: 18.2
+Weinbergkirche (Dresden): 16.7
+Eidgenössische Bank: 11.1
+Hamburger Tageblatt: 7.1
+Berliner Volks-Zeitung: 5.4
+Staatliche Zeichenakademie Hanau: 2.2
+Kunstgewerbe- und Handwerkerschule Magdeburg: 1.1
+Königseiche: 0.0
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Sperber (Schiff, 1938): 0.0
+Paul Parey Zeitschriftenverlag: 0.0
+
+Average RECALL score: 13.7

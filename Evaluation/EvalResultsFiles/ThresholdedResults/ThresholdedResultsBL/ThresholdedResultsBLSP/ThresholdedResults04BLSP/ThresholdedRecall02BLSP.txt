@@ -1,0 +1,26 @@
+RECALL results for Subject Position with Baseline questions  with a threshold of 0.4 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 0.82
+Sperber (Schiff, 1938): 0.77
+Eidgenössische Bank: 0.74
+Hamburger Tageblatt: 0.7
+Paul Parey Zeitschriftenverlag: 0.58
+Haus Fürsteneck: 0.57
+Graf Öderland: 0.53
+Weinbergkirche (Dresden): 0.5
+Jüdische Gemeinde Esens: 0.25
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 0.25
+Schweiz ohne Armee? Ein Palaver: 0.24
+Brand von Glarus: 0.22
+Berliner Volks-Zeitung: 0.21
+Hans Schnitzler: 0.21
+Wurminfektionen der Katze: 0.2
+Staatliche Zeichenakademie Hanau: 0.18
+Kettenschifffahrt auf dem Main: 0.11
+Erna Wazinski: 0.09
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.05
+Königseiche: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Bürgerpark und Stadtwald: 0.0
+
+Average RECALL score: 0.26

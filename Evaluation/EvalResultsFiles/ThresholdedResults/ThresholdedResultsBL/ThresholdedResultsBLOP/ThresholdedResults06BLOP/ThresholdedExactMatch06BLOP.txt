@@ -1,0 +1,26 @@
+EXACT MATCH results for Object Position with Baseline questions with a threshold of 0.6 for answer scores - (?, r, e): 
+
+Sperber (Schiff, 1938): 83.8
+Eidgenössische Bank: 83.5
+Kettenschifffahrt auf dem Main: 80.9
+Brand von Glarus: 80.8
+Weinbergkirche (Dresden): 80.6
+Wurminfektionen der Katze: 80.6
+Königseiche: 77.8
+Fadenwurminfektionen des Hundes: 74.6
+Haus Fürsteneck: 70.3
+Staatliche Zeichenakademie Hanau: 70.0
+Hans Schnitzler: 69.7
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 69.2
+Bürgerpark und Stadtwald: 68.3
+Hamburger Tageblatt: 67.2
+Schweiz ohne Armee? Ein Palaver: 64.8
+Jüdische Gemeinde Esens: 63.8
+Der Raubfisch: 60.8
+Graf Öderland: 57.7
+Erna Wazinski: 56.6
+Paul Parey Zeitschriftenverlag: 51.9
+Berliner Volks-Zeitung: 37.5
+Kunstgewerbe- und Handwerkerschule Magdeburg: 14.2
+
+Average EXACT MATCH score: 66.6

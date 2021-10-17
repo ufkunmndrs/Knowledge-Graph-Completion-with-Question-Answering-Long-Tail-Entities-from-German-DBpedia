@@ -1,0 +1,26 @@
+EXACT MATCH results for Subject Position with Baseline questions  with a threshold of 0.6 for answer scores - (e, r, ?): 
+
+Fadenwurminfektionen des Hundes: 83.3
+Brand von Glarus: 76.5
+Wurminfektionen der Katze: 76.2
+Eidgenössische Bank: 73.3
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 67.6
+Der Raubfisch: 64.3
+Haus Fürsteneck: 64.3
+Staatliche Zeichenakademie Hanau: 64.0
+Hans Schnitzler: 63.9
+Jüdische Gemeinde Esens: 57.9
+Weinbergkirche (Dresden): 57.1
+Graf Öderland: 54.5
+Erna Wazinski: 54.3
+Paul Parey Zeitschriftenverlag: 51.8
+Kettenschifffahrt auf dem Main: 48.1
+Hamburger Tageblatt: 48.0
+Sperber (Schiff, 1938): 44.2
+Schweiz ohne Armee? Ein Palaver: 38.6
+Kunstgewerbe- und Handwerkerschule Magdeburg: 32.5
+Berliner Volks-Zeitung: 28.0
+Bürgerpark und Stadtwald: 25.0
+Königseiche: 25.0
+
+Average EXACT MATCH score: 54.5

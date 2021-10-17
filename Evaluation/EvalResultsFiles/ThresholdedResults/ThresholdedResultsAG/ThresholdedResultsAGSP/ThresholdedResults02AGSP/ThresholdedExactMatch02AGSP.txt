@@ -1,0 +1,26 @@
+EXACT MATCH results for Subject Position with Translation-Based questions with a threshold of 0.2 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 51.8
+Brand von Glarus: 45.6
+Sperber (Schiff, 1938): 38.5
+Eidgenössische Bank: 37.1
+Paul Parey Zeitschriftenverlag: 32.1
+Hamburger Tageblatt: 32.0
+Staatliche Zeichenakademie Hanau: 28.9
+Haus Fürsteneck: 28.6
+Berliner Volks-Zeitung: 28.0
+Wurminfektionen der Katze: 23.8
+Jüdische Gemeinde Esens: 20.8
+Hans Schnitzler: 18.7
+Weinbergkirche (Dresden): 18.4
+Graf Öderland: 18.2
+Kunstgewerbe- und Handwerkerschule Magdeburg: 17.5
+Bürgerpark und Stadtwald: 12.5
+Schweiz ohne Armee? Ein Palaver: 11.4
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 7.4
+Kettenschifffahrt auf dem Main: 5.8
+Erna Wazinski: 4.8
+Fadenwurminfektionen des Hundes: 4.8
+Königseiche: 0.0
+
+Average EXACT MATCH score: 22.1

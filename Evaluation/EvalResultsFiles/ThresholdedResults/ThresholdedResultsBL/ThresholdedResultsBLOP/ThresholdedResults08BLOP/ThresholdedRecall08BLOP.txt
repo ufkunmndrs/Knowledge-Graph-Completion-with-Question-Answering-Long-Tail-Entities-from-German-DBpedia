@@ -1,0 +1,26 @@
+RECALL results for Object Position with Baseline questions with a threshold of 0.8 for answer scores - (?, r, e): 
+
+Der Raubfisch: 100.0
+Graf Öderland: 100.0
+Schweiz ohne Armee? Ein Palaver: 100.0
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 66.7
+Bürgerpark und Stadtwald: 66.7
+Eidgenössische Bank: 33.3
+Erna Wazinski: 33.3
+Berliner Volks-Zeitung: 3.0
+Königseiche: 0.0
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Hans Schnitzler: 0.0
+Weinbergkirche (Dresden): 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Sperber (Schiff, 1938): 0.0
+Wurminfektionen der Katze: 0.0
+Kunstgewerbe- und Handwerkerschule Magdeburg: 0.0
+Hamburger Tageblatt: 0.0
+Staatliche Zeichenakademie Hanau: 0.0
+Haus Fürsteneck: 0.0
+Paul Parey Zeitschriftenverlag: 0.0
+
+Average RECALL score: 22.9

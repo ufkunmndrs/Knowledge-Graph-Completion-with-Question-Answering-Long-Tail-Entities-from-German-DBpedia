@@ -1,0 +1,26 @@
+PRECISION results for Subject Position with Translation-Based questions with a threshold of 0.8 for answer scores - (e, r, ?): 
+
+Der Raubfisch: 80.0
+Eidgenössische Bank: 76.5
+Sperber (Schiff, 1938): 70.0
+Haus Fürsteneck: 62.5
+Paul Parey Zeitschriftenverlag: 60.0
+Graf Öderland: 57.1
+Weinbergkirche (Dresden): 50.0
+Hamburger Tageblatt: 50.0
+Berliner Volks-Zeitung: 45.5
+Jüdische Gemeinde Esens: 40.0
+Schweiz ohne Armee? Ein Palaver: 40.0
+Staatliche Zeichenakademie Hanau: 38.5
+Hans Schnitzler: 36.8
+Kunstgewerbe- und Handwerkerschule Magdeburg: 36.8
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 33.3
+Erna Wazinski: 30.8
+Bürgerpark und Stadtwald: 0.0
+Königseiche: 0.0
+Brand von Glarus: 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Wurminfektionen der Katze: 0.0
+
+Average PRECISION score: 36.7

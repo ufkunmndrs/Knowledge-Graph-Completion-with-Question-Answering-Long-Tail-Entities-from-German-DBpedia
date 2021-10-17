@@ -1,0 +1,26 @@
+RECALL results for Object Position with Translation-Based questions with a threshold of 0.8 for answer scores - (?, r, e): 
+
+Der Raubfisch: 100.0
+Bürgerpark und Stadtwald: 50.0
+Graf Öderland: 33.3
+Erna Wazinski: 28.6
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 25.0
+Eidgenössische Bank: 25.0
+Schweiz ohne Armee? Ein Palaver: 20.0
+Hans Schnitzler: 19.0
+Hamburger Tageblatt: 9.1
+Staatliche Zeichenakademie Hanau: 4.1
+Berliner Volks-Zeitung: 3.6
+Kunstgewerbe- und Handwerkerschule Magdeburg: 3.3
+Königseiche: 0.0
+Jüdische Gemeinde Esens: 0.0
+Brand von Glarus: 0.0
+Kettenschifffahrt auf dem Main: 0.0
+Weinbergkirche (Dresden): 0.0
+Fadenwurminfektionen des Hundes: 0.0
+Sperber (Schiff, 1938): 0.0
+Wurminfektionen der Katze: 0.0
+Haus Fürsteneck: 0.0
+Paul Parey Zeitschriftenverlag: 0.0
+
+Average RECALL score: 14.6

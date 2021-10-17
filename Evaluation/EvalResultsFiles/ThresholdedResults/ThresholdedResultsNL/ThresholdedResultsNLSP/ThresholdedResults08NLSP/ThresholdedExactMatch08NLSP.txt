@@ -1,0 +1,26 @@
+EXACT MATCH results for Subject Position with Human-Generated questions with a threshold of 0.8 for answer scores - (e, r, ?): 
+
+Wurminfektionen der Katze: 88.1
+Brand von Glarus: 76.5
+Fadenwurminfektionen des Hundes: 69.0
+Jüdische Gemeinde Esens: 68.3
+Eidgenössische Bank: 67.3
+Kunstgewerbe- und Handwerkerschule Magdeburg: 66.7
+Staatliche Zeichenakademie Hanau: 66.7
+Ostfriesland zur Zeit des Dreißigjährigen Krieges: 66.2
+Der Raubfisch: 64.3
+Erna Wazinski: 61.7
+Hans Schnitzler: 60.4
+Haus Fürsteneck: 59.2
+Schweiz ohne Armee? Ein Palaver: 59.1
+Berliner Volks-Zeitung: 56.0
+Sperber (Schiff, 1938): 53.8
+Weinbergkirche (Dresden): 52.0
+Kettenschifffahrt auf dem Main: 51.9
+Paul Parey Zeitschriftenverlag: 51.8
+Graf Öderland: 50.0
+Königseiche: 37.5
+Hamburger Tageblatt: 36.0
+Bürgerpark und Stadtwald: 25.0
+
+Average EXACT MATCH score: 58.5
