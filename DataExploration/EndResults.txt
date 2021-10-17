@@ -1,0 +1,6 @@
+Total number of candidate articles/entities after Property Analysis/Extraction: 1208
+Number of candidate articles/entities in "other" that do not have matching properties in DBpedia: 60
+Total number of candidate entities/articles "other" after Property Analysis/Extraction: 170
+In total, 60 candidate entities/articles had to be discarded due to the fact that they do not have a set of properties in DBpedia at this point of the research, which means that even if valid triples will be extracted, they cannot be inserted to the DBpedia Knowledge Graph due to the lack of proper representation (i.e. triples) for the predicates that were found.
+For future research, this could be still of interest one these properties are curated.
+This leaves us with a total amount of 1208 candidate articles for the triple extraction part, 170 of which are of type "other"
