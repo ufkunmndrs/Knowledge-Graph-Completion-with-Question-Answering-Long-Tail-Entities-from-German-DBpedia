@@ -1,0 +1,6 @@
+('http://dbpedia.org/ontology/location', 'Standort', 'location')
+('http://dbpedia.org/ontology/abstract', 'abstract', 'has abstract')
+('http://dbpedia.org/ontology/type', 'Typ', 'type')
+('http://dbpedia.org/ontology/country', 'Land', 'country')
+('http://dbpedia.org/ontology/province', 'Provinz', 'province')
+('http://dbpedia.org/ontology/region', 'Region', 'region')

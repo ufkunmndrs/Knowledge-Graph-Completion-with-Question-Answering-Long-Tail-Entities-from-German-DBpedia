@@ -1,0 +1,8 @@
+('Standort', 'location')
+('Typ', 'type')
+('Land', 'country')
+('Provinz', 'province')
+('Region', 'region')
+('befindet sich im Bereich', 'located in area')
+('LCCN-ID', 'LCCN Id')
+('IMDB-ID', 'IMDB id')
