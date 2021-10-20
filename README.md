@@ -28,4 +28,7 @@ This stage of the thesis generates the input questions for the QA-system. The co
 - Translation-Based ➡️ AG (for "automatically generated")
 - Human-Generated ➡️ NL (for "natural language")
 
-The 
+The are also divided into subject and object position, since the the set of properties are different according to entity position. Subject position questions can be accessed via `SP_Question Type`, where the abbreviation after the underscore indidcates the exact question type, accordingly, object position can be accessed via `OP_Question Type`. `PersonsQuestions` contains the set of questions for each position and is divided into the three question types, `OtherQuestions` contains each category in other which must be accessed first in order to access the questions for the specific category.
+
+## Triple Extraction ⚙️
+The triple extraction contains all the files 
