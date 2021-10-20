@@ -21,5 +21,11 @@ The code can be found in the `Code` directory. The final set of properties for *
 All the properties in *Other* can be accessed the same way by accessing `Properties/OtherProperties` and then the respective category in *Other*.
 The remaining files in these directories contain the properties with German label (i.e. every file having the suffix `Exists.txt`, denoting the existence of a German label for that property, and the properties where a translation was needed are denoted by the `Nt.txt` suffix.
 
-## Question Generation ❓
+## 4. Question Generation ❓
+This stage of the thesis generates the input questions for the QA-system. The code for this stage can be found in the `Code` directory. The questions for each category are divided into three different parts:
 
+- Baseline ➡️ BL
+- Translation-Based ➡️ AG (for "automatically generated")
+- Human-Generated ➡️ NL (for "natural language")
+
+The 
