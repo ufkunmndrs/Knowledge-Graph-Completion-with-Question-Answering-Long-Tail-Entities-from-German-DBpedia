@@ -13,4 +13,13 @@ The data exploration serves to further explore the data selected from the first 
 - DBpedia statuses for selected articles/entities
 - Categories for selected articles/entities
 
-The code can be found in the `Code` directory, the results for categories can be found in `CSVFiles/DeFullCategoryMappings`, the category-wise distribution of articles can be found in `Plots/EntityCategories`.  
+The code can be found in the `Code` directory. The Wikipedia categories for every article can be found in `CSVFiles/DeFullCategoryMappings`, the category-wise distribution of articles can be found in `Plots/EntityCategories`. The detailed number of each category contained in *Other* can be found in `Plots/OtherCategoryDetailed`. Finally, `EndResults.txt` provides a summary of this stage.
+
+## 3. Property Extraction 💡
+The property extraction assigns each entity of the dataset its set of DBpedia properties, based on their entity class/category. The properties themselves are extracted jointly from the German and English DBpedia.
+The code can be found in the `Code` directory. The final set of properties for *Person* can be found in `Properties/PersonProperties/PersonPropertiesTXTFiles`; the subject position properties are located in `PersonTotalPropertiesSP`, and accordingly, the object properties are in `PersonTotalPropertiesOP`.
+All the properties in *Other* can be accessed the same way by accessing `Properties/OtherProperties` and then the respective category in *Other*.
+The remaining files in these directories contain the properties with German label (i.e. every file having the suffix `Exists.txt`, denoting the existence of a German label for that property, and the properties where a translation was needed are denoted by the `Nt.txt` suffix.
+
+## Question Generation ❓
+
