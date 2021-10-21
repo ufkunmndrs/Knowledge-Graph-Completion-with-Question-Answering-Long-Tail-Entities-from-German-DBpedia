@@ -92,11 +92,17 @@ The `EvalResultsFiles` contain txt files for each entity position based on quest
 
 Additionally, the metrics were analyzed again in boxplots and median values for each category based on question type. The results can be found as plots in the `Plots/CategoryMetricAverages` directory for subject/object position respectively.
 
+Especially F1 score results a worth a look, since they were not included in the final version of the thesis.
+
 #### Thresholded Answer Quality Evaluation
-The final part of the evaluation concerns the 
+The final part of the evaluation concerns the thresholded answer quality analysis. For this, thresholds of 0.2, 0.4, 0.6, and 0.8 were introduced on the confidence scores.
+The results can be found in `EvalResultsFiles/ThresholdedResults`. The `CSVFilesThresholded` directory contains all metric directories according to their thresholds. The csv files are structured the same way as in the normal answer quality evaluation and are also divided into subject and object position for each metric and each threshold.
 
+The remaining files divided according to their thresholds contain the txt files, which rank entities according to their metric score in that threshold and are also divided based on their question type first and then according to the entity positions. Additionally, they also provide the average of that metric given the threshold. 
 
+Finally, the plots for the thresholded metrics can be found in `Plots/ThresholdedMetricAverages`. The plots are divided according to the question types and subsequently according to thresholds.
 
+The code for this last section can be found in `Code/thresholded_answer_evaluation.py`.
 ## Acknowledgements
 I would like to extend my deepest gratitude to Prof. Dr. Maribel Acosta for her impeccable supervision of the thesis, which made all of this possible in the first place. 
 Furthermore, I would like to thank Michael Staniek for helping me to run the code on the ICL clusters.
