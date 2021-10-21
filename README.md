@@ -31,7 +31,14 @@ This stage of the thesis generates the input questions for the QA-system. The co
 The are also divided into subject and object position, since the the set of properties are different according to entity position. Subject position questions can be accessed via `SP_Question Type`, where the abbreviation after the underscore indidcates the exact question type, accordingly, object position can be accessed via `OP_Question Type`. `PersonsQuestions` contains the set of questions for each position and is divided into the three question types, `OtherQuestions` contains each category in other which must be accessed first in order to access the questions for the specific category.
 
 ## 5. Triple Extraction ⚙️
+This stage of the thesis extracts the RDF triples by receiving the answers to the input questions for every property.
+The class `TripleExtractor` in `Code/triple_extractor.py` contains all the functionalities necessary to execute the Question-Answering. This includes:
+- loading input questions of the specific input type
+- loading properties for a category
+- loading all the Wikipedia article texts for each category
+- creating and saving the result dictionaries
 
+The 
 
 ## 6. Evaluation 📊
 
