@@ -31,7 +31,11 @@ This stage of the thesis generates the input questions for the QA-system. The co
 The are also divided into subject and object position, since the the set of properties are different according to entity position. Subject position questions can be accessed via `SP_Question Type`, where the abbreviation after the underscore indidcates the exact question type, accordingly, object position can be accessed via `OP_Question Type`. `PersonsQuestions` contains the set of questions for each position and is divided into the three question types, `OtherQuestions` contains each category in other which must be accessed first in order to access the questions for the specific category.
 
 ## 5. Triple Extraction ⚙️
-The triple extraction contains all the files 
+
 
 ## 6. Evaluation 📊
+
+## Acknowledgements
+I would like to extend my deepest gratitude to Prof. Dr. Maribel Acosta for her impeccable supervision of the thesis, which made all of this possible in the first place. 
+Furthermore, I would like to thank Michael Staniek for helping me to run the code on the ICL clusters.
 
