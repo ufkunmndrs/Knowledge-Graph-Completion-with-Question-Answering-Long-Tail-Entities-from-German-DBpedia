@@ -75,7 +75,7 @@ The confidence score evaluation analyzes the confidence scores for the returned 
 
 Additionally, the evaluation of the confidence scores for the properties in *Person* can be found in `PersonPropertiesStats`. These files contain the top/bottom 5 properties for *Person* in subject/object position based on questiont type.
 
-#### Answer Quality Evaluation
+### Answer Quality Evaluation
 This part of the evaluation analyzes the answer quality by comparing the system answers to a gold standard. The metrics used here:
 - Precision
 - Recall
@@ -87,6 +87,13 @@ The code for the creation of the gold standard can be found in `Code/goldstandar
 The code for the evaluation of the answer quality can be found in `Code/evaluate_answers.py`.
 
 The results for the answer quality evaluation can be found in `EvalResultsFiles`. The directory is structured s.t. the `CSVFiles` directory contains the results for metrics according to their entity position. The csv/excel files contain the respective metric score for each entity in the evaluation set based on their question type.
+
+The `EvalResultsFiles` contain txt files for each entity position based on question type. These files rank the entities according to their scores in the respective metric and additionally provide the macro-averaged metric value.
+
+Additionally, the metrics were analyzed again in boxplots and median values for each category based on question type. The results can be found as plots in the `Plots/CategoryMetricAverages` directory for subject/object position respectively.
+
+#### Thresholded Answer Quality Evaluation
+The final part of the evaluation concerns the 
 
 
 
