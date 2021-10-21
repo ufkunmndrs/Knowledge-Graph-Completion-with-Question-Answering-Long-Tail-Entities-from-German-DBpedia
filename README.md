@@ -15,7 +15,9 @@ The data exploration serves to further explore the data selected from the first 
 - DBpedia statuses for selected articles/entities
 - Categories for selected articles/entities
 
-The code can be found in the `Code` directory. The Wikipedia categories for every article can be found in `CSVFiles/DeFullCategoryMappings`, the category-wise distribution of articles can be found in `Plots/EntityCategories`. The detailed number of each category contained in *Other* can be found in `Plots/OtherCategoryDetailed`. Finally, `EndResults.txt` provides a summary of this stage.
+The code can be found in the `Code` directory. The Wikipedia categories for every article can be found in `CSVFiles/DeFullCategoryMappings`, the category-wise distribution of articles can be found in `Plots/EntityCategories`. The detailed number of each category contained in *Other* can be found in `Plots/OtherCategoryDetailed`. 
+Details about entities in *Person* (i.e. gender, current status and nationalities) can be found in `Plots/PersonsCategories`; since these did not make into the final thesis, they are worth a look as they provide additional information about the entities in *Person*.
+Finally, `EndResults.txt` provides a summary of this stage.
 
 ## 3. Property Extraction 💡
 The property extraction assigns each entity of the dataset its set of DBpedia properties, based on their entity class/category. The properties themselves are extracted jointly from the German and English DBpedia.
