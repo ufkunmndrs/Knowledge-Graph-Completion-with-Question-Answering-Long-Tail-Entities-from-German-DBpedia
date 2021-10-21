@@ -6,7 +6,9 @@ The main goal of thesis was to analyze if and how a combination of a language-mo
 
 
 ## 1. Data Selection 📚
-The data selection phase identifies long-tail entities of the German DBpedia by analyzing metadata pages of Wikipedia in order to locate the entities without an infobox and without a language link in the German Wikipedia. The code and the results can be seen in the according files.
+The data selection phase identifies long-tail entities of the German DBpedia by analyzing metadata pages of Wikipedia in order to locate the entities without an infobox and without a language link in the German Wikipedia. The codecan be found in the `Code` directory. 
+All XML files, including the final `FullDEdisambiguated.xml` containing the WikiXML of the final set of candidate articles, can be found in the `XMLFiles` directory.
+All TXT files can be found in the `TXTFiles` directory; the file `OnlyDeArticlesFinal` contains the final 1268 article titles/entity names.
 
 ## 2. Data Exploration 🔍
 The data exploration serves to further explore the data selected from the first step. The exploration is divided into two parts:
